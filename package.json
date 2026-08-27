@@ -1,0 +1,19 @@
+{
+  "name": "chatgpt-guanwang",
+  "version": "1.0.0",
+  "description": "ChatGPT 官网入口识别与安全访问指南站",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev docs --host 0.0.0.0",
+    "seo:sync": "node scripts/sync-discovery.mjs",
+    "docs:build": "npm run seo:sync && vitepress build docs && node scripts/sync-discovery.mjs --post-build",
+    "docs:preview": "vitepress preview docs --host 0.0.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
