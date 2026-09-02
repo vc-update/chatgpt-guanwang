@@ -38,8 +38,6 @@ faq:
 
 如果你搜索的是“ChatGPT 图片生成”“ChatGPT 生图”“ChatGPT 图片编辑”或“ChatGPT 中文生图”，通常有三个实际问题：从哪里进入、中文提示词怎么写、生成结果能不能放心使用。本文按这三个问题整理一套可复用流程。
 
-> 本文目录： [图片功能是什么](#1-chatgpt-图片生成功能是什么) · [官方入口](#2-从哪里进入官方图片功能) · [中文提示词](#3-中文提示词怎么写从一句话变成可执行描述) · [图片编辑](#4-图片编辑怎么做) · [失败排查](#5-生成失败或效果不理想怎么办) · [隐私](#6-隐私哪些图片不建议直接上传) · [版权](#7-版权和商用边界) · [免费版与 Plus](#8-免费版和-plus-怎么理解) · [第三方产品](#9-国内第三方练习环境怎么选)
-
 先说明边界：本站是非官方独立整理，不属于 OpenAI 或 ChatGPT。官方 ChatGPT 网页入口请以 [chatgpt.com](https://chatgpt.com/) 为准，OpenAI 产品与政策信息请以 [openai.com](https://openai.com/) 和 [帮助中心](https://help.openai.com/) 为准。图片功能、额度、模型名称和可用地区会变化，最终以你的账号页面为准。
 
 ## 1. ChatGPT 图片生成功能是什么
@@ -175,21 +173,6 @@ faq:
 ## 9. 国内第三方练习环境怎么选
 
 如果你的目标只是用公开、低敏素材练习中文提示词或比较图像模型，可以把第三方平台当作独立工具，不要把它们当成官方 ChatGPT 入口：
-
-<div class="product-links">
-  <a class="product-link-card" href="https://gptcat.cc/" target="_blank" rel="nofollow sponsored noreferrer">
-    <strong>打开 GPTCat 产品页</strong>
-    <span>适合多模型对比、图片生成和图像工作流。</span>
-  </a>
-  <a class="product-link-card" href="https://snakegpt.vip/" target="_blank" rel="nofollow sponsored noreferrer">
-    <strong>打开 SnakeGPT 产品页</strong>
-    <span>适合中文问答、提示词打磨和办公写作。</span>
-  </a>
-  <a class="product-link-card" href="https://www.zeogpt.com/register?ref=MRNWDKC3" target="_blank" rel="nofollow sponsored noreferrer">
-    <strong>打开 ZeoGPT 产品页</strong>
-    <span>适合代码、自动化和长文本辅助。</span>
-  </a>
-</div>
 
 | 场景 | 可了解的第三方产品 | 使用边界 |
 | --- | --- | --- |
