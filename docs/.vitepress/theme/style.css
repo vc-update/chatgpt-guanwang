@@ -530,6 +530,70 @@
   font-size: 0.95rem;
 }
 
+.article-toc {
+  margin: 18px 0 28px;
+  padding: 18px 22px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  background: var(--vp-c-bg-soft);
+}
+
+.article-toc strong {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 1rem;
+}
+
+.article-toc ol {
+  margin: 0;
+  padding-left: 22px;
+  columns: 2;
+}
+
+.article-toc li {
+  margin: 5px 0;
+}
+
+.product-links {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 18px 0 22px;
+}
+
+.product-link-card {
+  display: block;
+  padding: 14px 16px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  background: var(--vp-c-bg-soft);
+  text-decoration: none;
+}
+
+.product-link-card strong,
+.product-link-card span {
+  display: block;
+}
+
+.product-link-card span {
+  margin-top: 6px;
+  color: var(--vp-c-text-2);
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 760px) {
+  .product-links {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 760px) {
+  .article-toc ol {
+    columns: 1;
+  }
+}
+
 .product-recommend-box.seo-product-promo {
   margin: 18px 0 26px;
   border: 1px solid color-mix(in srgb, #6d6fe8 28%, var(--vp-c-divider));

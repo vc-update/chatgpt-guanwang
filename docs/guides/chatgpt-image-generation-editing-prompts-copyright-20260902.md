@@ -3,8 +3,9 @@ title: "ChatGPT图片生成功能怎么用？中文提示词、图片编辑与�
 description: "ChatGPT图片生成功能怎么用？本文说明官方入口、中文提示词写法、图片编辑流程、失败排查、隐私与版权边界，并介绍GPTCat、SnakeGPT等第三方练习场景。"
 date: 2026-09-02
 updated: 2026-09-02
-layout: page
 outline: deep
+aside: true
+sidebar: true
 faq:
   - question: ChatGPT 图片生成功能从哪里进入？
     answer: 先从 chatgpt.com 进入官方 ChatGPT 页面，再根据账号当前显示的功能选择图片生成或图片编辑。不同账号、套餐和地区的功能入口可能不同。
@@ -17,6 +18,23 @@ faq:
 ---
 
 # ChatGPT图片生成功能怎么用？中文提示词、图片编辑与版权注意事项【2026年9月】
+
+<p class="article-meta">更新日期：2026-09-02｜本站为非官方独立整理，不属于 OpenAI 或 ChatGPT 官方网站。</p>
+
+<div class="article-toc">
+  <strong>本文目录</strong>
+  <ol>
+    <li><a href="#1-chatgpt-图片生成功能是什么">图片功能是什么</a></li>
+    <li><a href="#2-从哪里进入官方图片功能">从哪里进入官方图片功能</a></li>
+    <li><a href="#3-中文提示词怎么写：从一句话变成可执行描述">中文提示词怎么写</a></li>
+    <li><a href="#4-图片编辑怎么做">图片编辑怎么做</a></li>
+    <li><a href="#5-生成失败或效果不理想怎么办">失败排查</a></li>
+    <li><a href="#6-隐私：哪些图片不建议直接上传">隐私注意事项</a></li>
+    <li><a href="#7-版权和商用边界">版权和商用边界</a></li>
+    <li><a href="#8-免费版和-plus-怎么理解">免费版与 Plus</a></li>
+    <li><a href="#9-国内第三方练习环境怎么选">第三方产品</a></li>
+  </ol>
+</div>
 
 如果你搜索的是“ChatGPT 图片生成”“ChatGPT 生图”“ChatGPT 图片编辑”或“ChatGPT 中文生图”，通常有三个实际问题：从哪里进入、中文提示词怎么写、生成结果能不能放心使用。本文按这三个问题整理一套可复用流程。
 
@@ -157,6 +175,21 @@ faq:
 ## 9. 国内第三方练习环境怎么选
 
 如果你的目标只是用公开、低敏素材练习中文提示词或比较图像模型，可以把第三方平台当作独立工具，不要把它们当成官方 ChatGPT 入口：
+
+<div class="product-links">
+  <a class="product-link-card" href="https://gptcat.cc/" target="_blank" rel="nofollow sponsored noreferrer">
+    <strong>打开 GPTCat 产品页</strong>
+    <span>适合多模型对比、图片生成和图像工作流。</span>
+  </a>
+  <a class="product-link-card" href="https://snakegpt.vip/" target="_blank" rel="nofollow sponsored noreferrer">
+    <strong>打开 SnakeGPT 产品页</strong>
+    <span>适合中文问答、提示词打磨和办公写作。</span>
+  </a>
+  <a class="product-link-card" href="https://www.zeogpt.com/register?ref=MRNWDKC3" target="_blank" rel="nofollow sponsored noreferrer">
+    <strong>打开 ZeoGPT 产品页</strong>
+    <span>适合代码、自动化和长文本辅助。</span>
+  </a>
+</div>
 
 | 场景 | 可了解的第三方产品 | 使用边界 |
 | --- | --- | --- |
