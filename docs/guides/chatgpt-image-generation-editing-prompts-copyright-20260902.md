@@ -21,21 +21,6 @@ faq:
 
 <p class="article-meta">更新日期：2026-09-02｜本站为非官方独立整理，不属于 OpenAI 或 ChatGPT 官方网站。</p>
 
-<div class="article-toc">
-  <strong>本文目录</strong>
-  <ol>
-    <li><a href="#1-chatgpt-图片生成功能是什么">图片功能是什么</a></li>
-    <li><a href="#2-从哪里进入官方图片功能">从哪里进入官方图片功能</a></li>
-    <li><a href="#3-中文提示词怎么写：从一句话变成可执行描述">中文提示词怎么写</a></li>
-    <li><a href="#4-图片编辑怎么做">图片编辑怎么做</a></li>
-    <li><a href="#5-生成失败或效果不理想怎么办">失败排查</a></li>
-    <li><a href="#6-隐私：哪些图片不建议直接上传">隐私注意事项</a></li>
-    <li><a href="#7-版权和商用边界">版权和商用边界</a></li>
-    <li><a href="#8-免费版和-plus-怎么理解">免费版与 Plus</a></li>
-    <li><a href="#9-国内第三方练习环境怎么选">第三方产品</a></li>
-  </ol>
-</div>
-
 如果你搜索的是“ChatGPT 图片生成”“ChatGPT 生图”“ChatGPT 图片编辑”或“ChatGPT 中文生图”，通常有三个实际问题：从哪里进入、中文提示词怎么写、生成结果能不能放心使用。本文按这三个问题整理一套可复用流程。
 
 先说明边界：本站是非官方独立整理，不属于 OpenAI 或 ChatGPT。官方 ChatGPT 网页入口请以 [chatgpt.com](https://chatgpt.com/) 为准，OpenAI 产品与政策信息请以 [openai.com](https://openai.com/) 和 [帮助中心](https://help.openai.com/) 为准。图片功能、额度、模型名称和可用地区会变化，最终以你的账号页面为准。
