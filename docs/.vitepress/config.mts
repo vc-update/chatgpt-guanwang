@@ -439,6 +439,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "ChatGPT免费版和Plus有什么区别？功能、额度、图片生成与适合人群对比【2026年9月】",
+        "link": "/guides/chatgpt-free-vs-plus-deep-research-report-citations-20260903"
+      },
+      {
         "text": "ChatGPT图片生成功能怎么用？中文提示词、图片编辑与版权注意事项【2026年9月】",
         "link": "/guides/chatgpt-image-generation-editing-prompts-copyright-20260902"
       },

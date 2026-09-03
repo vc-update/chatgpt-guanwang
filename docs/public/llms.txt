@@ -29,6 +29,7 @@
 
 ## 使用教程
 
+- [ChatGPT免费版和Plus有什么区别？功能、额度、图片生成与适合人群对比【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-free-vs-plus-deep-research-report-citations-20260903): 对比ChatGPT免费版和Plus在功能、使用额度、图片生成、深度研究、研究功能、报告和引用来源方面的差异，并说明不同人群如何选择。
 - [ChatGPT图片生成功能怎么用？中文提示词、图片编辑与版权注意事项【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-image-generation-editing-prompts-copyright-20260902): ChatGPT图片生成功能怎么用？本文说明官方入口、中文提示词写法、图片编辑流程、失败排查、隐私与版权边界，并介绍GPTCat、SnakeGPT等第三方练习场景。
 - [ChatGPT登录入口在哪里？官网登录地址、验证码收不到与账号异常排查【2026年8月】](https://chatgpt-guanwang.com/guides/login): ChatGPT 登录入口应从 chatgpt.com 进入。本文核对官方登录地址、对比四种登录方式，并逐项排查登录打不开、验证码收不到、账号被锁等问题。
 - [ChatGPT官网入口网页版：chatgpt.com登录地址、中文界面与真假入口核验【2026年8月】](https://chatgpt-guanwang.com/guides/chatgpt-web-version-chinese): ChatGPT官网入口网页版是哪个？本文直给 chatgpt.com 网页版登录地址与登录按钮位置，核对 chat.openai.com 跳转关系，前置真假入口对照表、中文界面设置与国内访问排查。
@@ -43,7 +44,6 @@
 - [ChatGPT 官网入口及国内使用教程：官方地址、登录入口、网页版和 App 下载](https://chatgpt-guanwang.com/guides/official-login-web-app): 介绍 ChatGPT 官网入口、官方地址、登录入口、网页版、App 下载和国内使用教程，包含步骤、安全提醒和常见问题。
 - [ChatGPT 使用入口整理：官网、登录入口、网页版、App 下载与国内可用方案](https://chatgpt-guanwang.com/guides/access-roundup-official-web-app-domestic): 汇总 ChatGPT 官网、登录入口、网页版、App 下载和国内可用方案，帮助用户快速选择正确入口并避开仿冒站。
 - [ChatGPT 安卓版下载安全吗](https://chatgpt-guanwang.com/guides/android-download-safety): 说明 ChatGPT Android 下载入口、APK 风险、Google Play 核对和假 App 权限识别。
-- [ChatGPT 登录失败怎么办](https://chatgpt-guanwang.com/guides/login-failed): 排查 ChatGPT 登录失败、验证码收不到、登录后跳出、页面循环加载等常见问题。
 
 ## 安全识别
 

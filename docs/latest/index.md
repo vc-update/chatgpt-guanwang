@@ -2,7 +2,7 @@
 title: "最新更新：ChatGPT 官网入口与安全识别文章"
 description: "按文章真实更新时间倒序整理 ChatGPT 官网入口、网页版登录、App 下载、账号与付款安全、镜像站风险和国内访问文章。"
 date: 2026-06-29
-updated: 2026-09-02
+updated: 2026-09-03
 outline: deep
 ---
 
@@ -12,6 +12,7 @@ outline: deep
 
 | 更新时间 | 文章 | 栏目 |
 | :--- | :--- | :--- |
+| 2026-09-03 | [ChatGPT免费版和Plus有什么区别？功能、额度、图片生成与适合人群对比【2026年9月】](/guides/chatgpt-free-vs-plus-deep-research-report-citations-20260903) | 使用教程 |
 | 2026-09-02 | [ChatGPT图片生成功能怎么用？中文提示词、图片编辑与版权注意事项【2026年9月】](/guides/chatgpt-image-generation-editing-prompts-copyright-20260902) | 使用教程 |
 | 2026-08-26 | [ChatGPT官网二维码登录安全吗？扫码授权、浏览器会话与假登录页识别【2026年8月】](/safety/chatgpt-official-qr-login-scan-authorize-safety-20260826) | 安全识别 |
 | 2026-08-26 | [ChatGPT官网服务状态怎么看？登录、消息、图片与网络故障分辨清单【2026年8月】](/safety/chatgpt-official-status-login-image-network-troubleshoot-20260826) | 安全识别 |
