@@ -439,6 +439,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "GPT-6 Astra发布了？官网信息、ARC-AGI-3成绩、编程能力与使用指南【2026年9月】",
+        "link": "/guides/gpt-6-astra-release-capabilities-benchmark-guide-20260904"
+      },
+      {
         "text": "ChatGPT免费版和Plus有什么区别？功能、额度、图片生成与适合人群对比【2026年9月】",
         "link": "/guides/chatgpt-free-vs-plus-deep-research-report-citations-20260903"
       },
