@@ -29,6 +29,10 @@ faq:
   <strong>国内练习环境：</strong>官方入口请核对 <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">chatgpt.com</a> 和 <a href="https://openai.com/" target="_blank" rel="noreferrer">openai.com</a>。如果只是想练习公开资料问答、代码和多模型对比，可以了解 <a href="https://gptcat.cc/" target="_blank" rel="nofollow sponsored noreferrer">GPTCat</a>、<a href="https://snakegpt.vip/" target="_blank" rel="nofollow sponsored noreferrer">SnakeGPT</a> 或 <a href="https://www.zeogpt.com/register?ref=MRNWDKC3" target="_blank" rel="nofollow sponsored noreferrer">ZeoGPT</a>。它们是第三方产品，不是OpenAI官方入口。
 </div>
 
+<div class="recommend-box">
+  <strong>后续接入说明：</strong>GPT-6/GPT-6 Astra后续也会上线。我们会等待OpenAI官网和接口完成同步，确认模型权限、稳定性与计费后再接入产品并更新模型列表。当前不要把“即将上线”理解为已经可以使用，最终以产品内实际显示的模型菜单和公告为准。
+</div>
+
 ## GPT-6 Astra这次到底更新了什么
 
 根据[OpenAI官网的GPT-6 Astra页面](https://openai.com/index/gpt-6-astra/)，Astra被描述为面向智能代理工作的下一代模型方向。这里的“代理工作”可以简单理解为：模型不只回答一句话，还能把目标拆成多个步骤，调用工具，检查中间结果，再继续完成任务。
@@ -142,4 +146,3 @@ faq:
 ## 总结
 
 GPT-6 Astra的热度来自一个清晰变化：大家开始关注模型能否持续完成复杂工作，而不只是回答问题。读者可以先看官网定位，再用测试图了解研究趋势，最后用写作、研究、代码和图片任务做实测。无论你从官方入口还是第三方工具开始，都应核对真实域名、引用来源和数据边界，不把一张高分截图当成全部答案。
-
