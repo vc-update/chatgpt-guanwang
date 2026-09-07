@@ -2,7 +2,7 @@
 title: "最新更新：ChatGPT 官网入口与安全识别文章"
 description: "按文章真实更新时间倒序整理 ChatGPT 官网入口、网页版登录、App 下载、账号与付款安全、镜像站风险和国内访问文章。"
 date: 2026-06-29
-updated: 2026-09-04
+updated: 2026-09-07
 outline: deep
 ---
 
@@ -12,6 +12,7 @@ outline: deep
 
 | 更新时间 | 文章 | 栏目 |
 | :--- | :--- | :--- |
+| 2026-09-07 | [GPT-6 Astra怎么用？官网入口、模型菜单与开放范围核验指南【2026年9月】](/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907) | 使用教程 |
 | 2026-09-04 | [GPT-6 Astra发布了？官网信息、ARC-AGI-3成绩、编程能力与使用指南【2026年9月】](/guides/gpt-6-astra-release-capabilities-benchmark-guide-20260904) | 使用教程 |
 | 2026-09-03 | [ChatGPT免费版和Plus有什么区别？功能、额度、图片生成与适合人群对比【2026年9月】](/guides/chatgpt-free-vs-plus-deep-research-report-citations-20260903) | 使用教程 |
 | 2026-09-02 | [ChatGPT图片生成功能怎么用？中文提示词、图片编辑与版权注意事项【2026年9月】](/guides/chatgpt-image-generation-editing-prompts-copyright-20260902) | 使用教程 |

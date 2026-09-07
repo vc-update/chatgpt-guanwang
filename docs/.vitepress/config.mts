@@ -439,6 +439,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "GPT-6 Astra怎么用？官网入口、模型菜单与开放范围核验指南【2026年9月】",
+        "link": "/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907"
+      },
+      {
         "text": "GPT-6 Astra发布了？官网信息、ARC-AGI-3成绩、编程能力与使用指南【2026年9月】",
         "link": "/guides/gpt-6-astra-release-capabilities-benchmark-guide-20260904"
       },
