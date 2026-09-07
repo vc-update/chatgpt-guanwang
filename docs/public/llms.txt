@@ -29,7 +29,7 @@
 
 ## 使用教程
 
-- [GPT-6 Astra怎么用？官网入口、模型菜单与开放范围核验指南【2026年9月】](https://chatgpt-guanwang.com/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907): 说明GPT-6 Astra如何核对官网入口、模型菜单和开放范围，区分ChatGPT、API与第三方产品，并介绍GPTCat接入GPT-6后的安全使用方法。
+- [GPT-6 Astra怎么用？官网入口、模型菜单与开放范围核验指南【2026年9月】](https://chatgpt-guanwang.com/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907): 说明GPT-6 Astra如何核对官网入口、模型菜单和开放范围，区分ChatGPT、API与第三方产品，并介绍GPTCat与SnakeGPT的实际使用场景和安全边界。
 - [GPT-6 Astra发布了？官网信息、ARC-AGI-3成绩、编程能力与使用指南【2026年9月】](https://chatgpt-guanwang.com/guides/gpt-6-astra-release-capabilities-benchmark-guide-20260904): 整理GPT-6 Astra官网资讯、ARC-AGI-3与Artificial Analysis测试图、编程演示和实际使用建议，区分官方信息、媒体解读与尚待核验的内容。
 - [ChatGPT免费版和Plus有什么区别？功能、额度、图片生成与适合人群对比【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-free-vs-plus-deep-research-report-citations-20260903): 对比ChatGPT免费版和Plus在功能、使用额度、图片生成、深度研究、研究功能、报告和引用来源方面的差异，并说明不同人群如何选择。
 - [ChatGPT图片生成功能怎么用？中文提示词、图片编辑与版权注意事项【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-image-generation-editing-prompts-copyright-20260902): ChatGPT图片生成功能怎么用？本文说明官方入口、中文提示词写法、图片编辑流程、失败排查、隐私与版权边界，并介绍GPTCat、SnakeGPT等第三方练习场景。

@@ -31,6 +31,17 @@ faq:
   <strong>GPT-6产品入口：</strong>目前可了解两个独立的第三方产品：<a href="https://share.gptcat.cc" target="_blank" rel="nofollow sponsored noreferrer">GPTCat</a> 已支持接入GPT-6相关模型，适合中文问答、代码、资料整理和多模型对比；<a href="https://www.snakegpt.vip/" target="_blank" rel="nofollow sponsored noreferrer">SnakeGPT</a> 更适合中文问答、写作和提示词打磨。请登录后以各自产品内的模型菜单、功能说明和公告为准。两者都不是OpenAI官方入口，也不要在第三方页面输入OpenAI账号密码、验证码或API Key。
 </div>
 
+## 两个平台都已支持GPT-6 / GPT-6 Astra
+
+根据产品运营方于 **2026年9月6日** 提供的模型菜单信息，**SnakeGPT 与 GPTCat 均已支持 GPT-6 / GPT-6 Astra**。需要中文网页入口时，可以点击下面的产品地址，再按任务选择对话、推理、绘图或其他工具：
+
+| 产品与入口 | GPT-6相关能力 | 其他可见功能方向 |
+| --- | --- | --- |
+| [SnakeGPT](https://www.snakegpt.vip/) | GPT-6 / Astra、GPT-5.6 Thinking / Pro、GPT-5.5 / Pro | Claude、Gemini、Grok、DeepSeek 等模型；GPT Image 2、Nano Banana 2；Agent mode、GPT Codex、语音对话、附件上传 |
+| [GPTCat](https://share.gptcat.cc) | GPT-6 / Astra、GPT-5.5 / 推理、GPT-4o-mini | Claude、Gemini、Grok、DeepSeek 等模型；GPT Image 2、NanoBanana 2、MJ 绘图；深度搜索、深度研究、思维导图、语音、附件和多模型切换 |
+
+上表依据产品方提供的公开菜单整理，**不是 OpenAI 官方产品清单**。模型名称、入口、额度、工具和稳定性可能调整；登录后请以产品内实时显示为准。两个平台都是第三方服务，适合用公开、低敏资料做体验和对比，不建议上传账号密码、验证码、API Key、合同或客户资料。
+
 ## 一、先分清三个“GPT-6入口”
 
 搜索“GPT-6 Astra怎么用”时，常常会把三个不同入口混在一起：
@@ -79,7 +90,7 @@ faq:
 
 ## 五、我们的产品如何使用GPT-6
 
-目前，[GPTCat](https://share.gptcat.cc) 已支持接入GPT-6相关模型。你可以把它作为独立的多模型工作台，用于：
+目前，[GPTCat](https://share.gptcat.cc) 已支持接入GPT-6 / GPT-6 Astra相关模型。你可以把它作为独立的多模型工作台，用于：
 
 - 中文问答、改写和资料整理；
 - 代码解释、报错分析和小型项目辅助；
@@ -88,7 +99,7 @@ faq:
 
 使用时建议先打开产品内的模型菜单，确认具体型号、当前可用状态和剩余额度。产品页面显示的模型名称和能力可能调整，最终以登录后的实际页面和公告为准。
 
-如果你的任务以中文写作、问答和提示词整理为主，可以了解 [SnakeGPT](https://www.snakegpt.vip/)。它适合作为独立的中文任务练习环境，具体模型和功能以登录后的页面为准。GPTCat与SnakeGPT都是第三方服务，不是OpenAI官方入口。
+如果你的任务以中文写作、问答和提示词整理为主，可以了解 [SnakeGPT](https://www.snakegpt.vip/)。目前它同样已提供 GPT-6 / GPT-6 Astra 相关模型入口，也可用于 GPT Image 2、Agent mode、GPT Codex、语音和附件等任务练习。具体模型和功能以登录后的页面为准。GPTCat与SnakeGPT都是第三方服务，不是OpenAI官方入口。
 
 ## 六、第一次使用GPT-6建议测试什么
 
@@ -149,4 +160,4 @@ faq:
 
 ## 总结
 
-使用GPT-6 Astra的关键不是寻找一个神秘链接，而是确认三个事实：你进入的是否是真实官网或已说明的第三方产品，模型是否出现在当前账号的菜单里，以及任务结果是否经过人工核验。官方入口和第三方产品可以分别使用；在GPTCat中体验GPT-6，或在SnakeGPT中进行中文问答和写作练习时，都请以产品内实际显示的模型菜单、功能说明和公告为准。
+使用GPT-6 Astra的关键不是寻找一个神秘链接，而是确认三个事实：你进入的是否是真实官网或已说明的第三方产品，模型是否出现在当前账号的菜单里，以及任务结果是否经过人工核验。官方入口和第三方产品可以分别使用；目前 GPTCat 与 SnakeGPT 都已支持 GPT-6 / GPT-6 Astra 相关模型，但仍请以产品内实际显示的模型菜单、功能说明和公告为准。
