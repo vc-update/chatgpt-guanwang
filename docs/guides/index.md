@@ -14,6 +14,7 @@ updated: 2026-08-08
 ## 文章列表
 
 <div class="article-grid">
+  <a href="/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907">GPT-6 Astra怎么用：官网入口、模型菜单与开放范围核验</a>
   <a href="/guides/chatgpt-voice-conversation-mobile-web-chinese-guide-20260808">ChatGPT语音对话怎么用：手机App、网页版、中文设置与隐私提醒</a>
   <a href="/guides/chatgpt-web-search-citations-current-information-guide-20260808">ChatGPT联网搜索怎么用：网页版搜索、引用来源与信息核验指南</a>
   <a href="/guides/chatgpt-web-login-entry-mobile-desktop-no-download-20260714">ChatGPT网页版使用教程（2026国内完整指南）：官网入口与登录步骤</a>

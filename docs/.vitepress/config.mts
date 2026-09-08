@@ -557,6 +557,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "ChatGPT 两步验证怎么设置？登录安全、验证器与恢复检查清单【2026年9月】",
+        "link": "/safety/chatgpt-account-two-factor-authentication-security-check-20260908"
+      },
+      {
         "text": "ChatGPT官网二维码登录安全吗？扫码授权、浏览器会话与假登录页识别【2026年8月】",
         "link": "/safety/chatgpt-official-qr-login-scan-authorize-safety-20260826"
       },
