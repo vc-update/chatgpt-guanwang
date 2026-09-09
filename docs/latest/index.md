@@ -13,6 +13,7 @@ outline: deep
 | 更新时间 | 文章 | 栏目 |
 | :--- | :--- | :--- |
 | 2026-09-09 | [ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】](/guides/chatgpt-image-2-5-release-features-editing-guide-20260909) | 使用教程 |
+| 2026-09-08 | [ChatGPT 两步验证怎么设置？登录安全、验证器与恢复检查清单【2026年9月】](/safety/chatgpt-account-two-factor-authentication-security-check-20260908) | 安全识别 |
 | 2026-09-07 | [GPT-6 Astra怎么用？官网入口、模型菜单与开放范围核验指南【2026年9月】](/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907) | 使用教程 |
 | 2026-09-04 | [GPT-6 Astra发布了？官网信息、ARC-AGI-3成绩、编程能力与使用指南【2026年9月】](/guides/gpt-6-astra-release-capabilities-benchmark-guide-20260904) | 使用教程 |
 | 2026-09-03 | [ChatGPT免费版和Plus有什么区别？功能、额度、图片生成与适合人群对比【2026年9月】](/guides/chatgpt-free-vs-plus-deep-research-report-citations-20260903) | 使用教程 |

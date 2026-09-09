@@ -47,6 +47,7 @@
 
 ## 安全识别
 
+- [ChatGPT 两步验证怎么设置？登录安全、验证器与恢复检查清单【2026年9月】](https://chatgpt-guanwang.com/safety/chatgpt-account-two-factor-authentication-security-check-20260908): 整理 ChatGPT 账户两步验证的开启路径、验证器与备用代码检查方法，以及换手机、收不到验证码和异常登录时的处理顺序。
 - [ChatGPT官网二维码登录安全吗？扫码授权、浏览器会话与假登录页识别【2026年8月】](https://chatgpt-guanwang.com/safety/chatgpt-official-qr-login-scan-authorize-safety-20260826): ChatGPT官网二维码登录或扫码授权安全吗？本文说明如何确认二维码来源、最终域名和授权范围，区分官方登录、邀请链接与仿冒页面，避免泄露账号、验证码和Cookie。
 - [ChatGPT官网服务状态怎么看？登录、消息、图片与网络故障分辨清单【2026年8月】](https://chatgpt-guanwang.com/safety/chatgpt-official-status-login-image-network-troubleshoot-20260826): ChatGPT官网打不开、消息发不出去或图片生成失败时，如何查看官方服务状态？本文区分平台故障、浏览器会话、网络环境和账号问题，给出低风险排查顺序。
 - [ChatGPT官网提示陌生登录怎么办？设备会话、密码重置与账号安全核验【2026年8月】](https://chatgpt-guanwang.com/safety/chatgpt-official-unrecognized-login-device-session-security-20260826): ChatGPT官网收到陌生登录提醒怎么办？本文区分邮件通知、浏览器会话和真实账号异常，按官方入口、登录方式、设备会话、密码与授权检查给出安全处理顺序。
@@ -61,7 +62,6 @@
 - [ChatGPT官网临时聊天怎么用？聊天记录、数据设置与隐私检查指南【2026年7月】](https://chatgpt-guanwang.com/safety/chatgpt-official-temporary-chat-history-data-controls-privacy-guide-20260720): 本文面向想在ChatGPT官网处理低敏感临时内容的用户，围绕ChatGPT官网临时聊天、聊天记录、数据设置、删除对话、退出登录与浏览器隐私模式的边界，提供可执行检查步骤。 内容同时覆盖临时聊天、聊天记录和数据设置边界的操作核对、常见错误、真实案例与风险边界，方便读者按步骤完成检查。
 - [ChatGPT官网登录安全吗？官方网址、浏览器提示与账号信息核验清单【2026年7月】](https://chatgpt-guanwang.com/safety/chatgpt-official-login-security-url-browser-account-checklist-20260719): 这篇教程面向通过搜索结果、聊天转发或收藏夹打开ChatGPT官网登录页的用户，重点说明如何先核验完整域名、HTTPS与浏览器安全提示、登录表单、跳转来源和账号信息，再决定是否输入邮箱、密码、验证码或付款资料，并提供遇到异常证书、仿冒页面和共享设备时的处理顺序。
 - [ChatGPT官网入口网页版怎么辨别？chatgpt.com、OpenAI官网与搜索结果核验清单【2026年7月】](https://chatgpt-guanwang.com/safety/chatgpt-official-web-entry-search-result-checklist-20260719): ChatGPT官网入口网页版怎么辨别？本文说明 chatgpt.com、OpenAI官网、搜索广告、相似域名和仿冒登录页的核验顺序，避免在错误页面输入账号信息。
-- [ChatGPT官网与OpenAI官网有什么区别？登录页、下载页与开发者平台怎么选【2026年7月】](https://chatgpt-guanwang.com/safety/chatgpt-official-openai-site-login-download-platform-difference-20260719): 本文面向从搜索结果进入页面后不确定下一步的用户，围绕ChatGPT官网与OpenAI官网的区别，说明登录聊天、下载应用、查看产品说明和进入开发者平台的判断方法，并提醒教程站与第三方页面的边界。
 
 ## 国内方案
 
