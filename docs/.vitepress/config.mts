@@ -439,6 +439,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】",
+        "link": "/guides/chatgpt-image-2-5-release-features-editing-guide-20260909"
+      },
+      {
         "text": "GPT-6 Astra怎么用？官网入口、模型菜单与开放范围核验指南【2026年9月】",
         "link": "/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907"
       },
