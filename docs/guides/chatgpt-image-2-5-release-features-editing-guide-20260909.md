@@ -33,7 +33,7 @@ faq:
 
 OpenAI在[官方资讯页面](https://openai.com/index/introducing-chatgpt-images-2-5/)介绍了新的图像生成方向。中文互联网通常把它简称为“Image 2.5”或“GPT Image 2.5”。目前更适合把它理解为一套图像生成与编辑能力，而不是把所有截图里的功能和参数都当成固定承诺。
 
-![ChatGPT Image 2.5视觉概念图：从文字描述到图像创作](/images/chatgpt-image-2-5-overview.png)
+![ChatGPT Image 2.5视觉概念图：从文字描述到图像创作](/images/chatgpt-image-2-5-overview-clean.png)
 
 *图：用户提供的Image 2.5概念图，仅作资讯配图；图片中的版本、价格或模型标注不代表本站对账号权限的确认。*
 
@@ -174,4 +174,5 @@ Image 2.5的另一个常见用法，是修改已有图片中的标题或说明�
 ## 总结
 
 ChatGPT Image 2.5的实用价值，不只是生成更漂亮的图片，而是让“上传—修改—复核”的流程更连贯。想尝试时，先从官方页面确认入口，再用低敏素材做小范围测试。需要多模型对比和图片工作流，可以了解GPTCat；偏中文提示词和内容练习，可以了解SnakeGPT。无论使用哪种入口，都请以当前模型菜单和公告为准，并在发布前完成版权、隐私和事实核验。
+
 
