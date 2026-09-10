@@ -227,6 +227,8 @@ ChatGPT支持中文，但不存在仅凭“中文版”三个字就能确认的�
 - [ChatGPT语音对话：手机、网页与中文设置](/guides/chatgpt-voice-conversation-mobile-web-chinese-guide-20260808)
 - [ChatGPT网页版免下载登录教程](/guides/chatgpt-web-login-entry-mobile-desktop-no-download-20260714)
 
+如果需要另一份面向中文用户的入口核验清单，也可以参考关联中文教程站的 [ChatGPT官网入口最新地址：网页版、中文版与国内使用指南（2026）](https://chatgpt-chinese.blog/chatgpt/official-entry-chinese-guide-2026)。该页面是独立教程，不代表 OpenAI 官方服务或账号入口。
+
 ## 十二、官方参考
 
 - [ChatGPT官方网页](https://chatgpt.com/)

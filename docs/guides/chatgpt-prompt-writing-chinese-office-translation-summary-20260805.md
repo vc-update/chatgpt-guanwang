@@ -232,6 +232,8 @@ OpenAI 的提示词建议也强调清晰、具体、提供足够上下文，并�
 - [ChatGPT国内用户使用指南：官网、中文版镜像与多模型工具怎么选](/domestic/chatgpt-china-user-guide-official-mirror-multimodel-20260803)
 - [ChatGPT上传文件安全吗：文档、图片、表格和隐私数据检查清单](/safety/chatgpt-upload-files-privacy-data-security-checklist-20260805)
 
+如果你需要更系统的提示词拆解，可参考关联中文教程站的 [ChatGPT提示词工程进阶指南：从入门到精通（2026版）](https://www.gpt-chinese-guide.com/blog/chatgpt-prompt-engineering-guide)。外部文章用于补充示例，正式使用时仍应结合自己的任务和隐私要求调整。
+
 ## 资料来源
 
 - [OpenAI Help Center：Prompt engineering best practices for ChatGPT](https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt)

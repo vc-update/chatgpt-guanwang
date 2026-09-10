@@ -102,6 +102,8 @@ faq:
 - [ChatGPT国内使用入口怎么选：官网、网页版、中文版和国内可用方案](/domestic/chatgpt-domestic-use-entry-product-guide-2026-07)
 - [ChatGPT中文版入口和ChatGPT官网有什么区别](/safety/chatgpt-chinese-entry-vs-official-website-difference-20260714)
 
+如果想查看另一份国内访问与中文入口的核验流程，可参考关联中文教程站的 [ChatGPT国内怎么用：官网入口、中文镜像、安全边界和替代方案](https://chatgpt-guides.com/chatgpt/chatgpt-china-access-official-mirror-guide-2026)。该页面为独立站点内容，不能替代 OpenAI 官方公告。
+
 ## FAQ
 
 ### 国内用户使用 ChatGPT 最稳妥的入口是什么？

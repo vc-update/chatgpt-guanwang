@@ -143,6 +143,8 @@ ChatGPT与API面向的使用场景不同，因此出现“一个入口能用、�
 - [ChatGPT深度研究、报告与引用来源怎么核对](/guides/chatgpt-web-search-citations-current-information-guide-20260808)
 - [ChatGPT两步验证怎么设置？登录安全、验证器与恢复检查清单【2026年9月】](/safety/chatgpt-account-two-factor-authentication-security-check-20260908)
 
+如果你还想看一份偏实操的长文流程，可以参考关联中文教程站 [GPT-6 Astra 实战教程：写作、编程与长文档任务完整流程（2026）](https://chatgpt-chinese.blog/models/gpt-6-astra-practical-guide-2026)。该站点与本文属于独立内容页面，具体模型权限仍应以实际产品菜单为准。
+
 ## 常见问题
 
 ### GPT-6 Astra现在到底能不能用？
