@@ -409,27 +409,27 @@ const articleSidebar = [
         "link": "/official/official-entry-domestic-guide"
       },
       {
-        "text": "ChatGPT 官方登录页怎么辨别",
+        "text": "chatgpt.com 和 openai.com 有什么区别",
+        "link": "/official/chatgpt-com-vs-openai-com"
+      },
+      {
+        "text": "ChatGPT官方登录页怎么辨别？域名、验证码与钓鱼风险",
         "link": "/official/official-login-page"
       },
       {
-        "text": "ChatGPT 中文官网入口是真的吗",
+        "text": "ChatGPT中文官网入口是真的吗？官方页面与镜像站区别",
         "link": "/official/chinese-official-entry"
       },
       {
-        "text": "ChatGPT 中文入口与官方地址核对指南",
+        "text": "ChatGPT中文入口怎么找？zh-CN页面与官方地址核对指南",
         "link": "/official/chatgpt-zh-cn-entry"
-      },
-      {
-        "text": "chatgpt.com 和 openai.com 有什么区别",
-        "link": "/official/chatgpt-com-vs-openai-com"
       },
       {
         "text": "OpenAI ChatGPT 中文版使用指南：官网入口、模型选择与国内访问方法",
         "link": "/official/openai-chatgpt-chinese-guide"
       },
       {
-        "text": "ChatGPT 官方网址是哪个",
+        "text": "ChatGPT官方网址是哪个？官网、登录与下载入口核对",
         "link": "/official/url"
       }
     ]
@@ -507,14 +507,6 @@ const articleSidebar = [
         "link": "/guides/access-roundup-official-web-app-domestic"
       },
       {
-        "text": "ChatGPT 安卓版下载安全吗",
-        "link": "/guides/android-download-safety"
-      },
-      {
-        "text": "ChatGPT 登录失败怎么办",
-        "link": "/guides/login-failed"
-      },
-      {
         "text": "ChatGPT 提示词入门：中文用户怎么问更清楚",
         "link": "/guides/prompt-basics"
       },
@@ -523,16 +515,8 @@ const articleSidebar = [
         "link": "/guides/chatgpt-download-all-platforms"
       },
       {
-        "text": "ChatGPT 下载与安装教程",
-        "link": "/guides/download-install"
-      },
-      {
         "text": "ChatGPT 怎么使用：新手从打开官网到开始提问",
         "link": "/guides/beginner-guide"
-      },
-      {
-        "text": "ChatGPT 注册账号与邮箱验证指南",
-        "link": "/guides/register-email"
       },
       {
         "text": "ChatGPT 桌面版安装教程：Windows 与 macOS 下载前核对",
@@ -547,12 +531,28 @@ const articleSidebar = [
         "link": "/guides/windows-desktop"
       },
       {
-        "text": "ChatGPT 打不开怎么办",
-        "link": "/guides/cannot-open"
+        "text": "ChatGPT安卓版下载安全吗？官方入口与APK风险核对",
+        "link": "/guides/android-download-safety"
+      },
+      {
+        "text": "ChatGPT登录失败怎么办？验证码、跳转和页面循环排查",
+        "link": "/guides/login-failed"
+      },
+      {
+        "text": "ChatGPT下载与安装教程：iOS、Android、Windows和macOS入口",
+        "link": "/guides/download-install"
+      },
+      {
+        "text": "ChatGPT注册与邮箱验证：官网入口、验证码和账号安全指南",
+        "link": "/guides/register-email"
       },
       {
         "text": "ChatGPT App 下载与真假 App 识别",
         "link": "/guides/app"
+      },
+      {
+        "text": "ChatGPT打不开怎么办？官网白屏、加载慢与登录失败排查",
+        "link": "/guides/cannot-open"
       }
     ]
   },
@@ -773,39 +773,39 @@ const articleSidebar = [
         "link": "/safety/bing-search-result-check"
       },
       {
-        "text": "ChatGPT 钓鱼链接怎么识别",
-        "link": "/safety/phishing-link-check"
-      },
-      {
         "text": "ChatGPT 假 App 常见套路",
         "link": "/safety/fake-app-risk"
-      },
-      {
-        "text": "ChatGPT 镜像网站能不能用",
-        "link": "/safety/mirror-risk"
       },
       {
         "text": "ChatGPT 下载站和安装包风险提醒",
         "link": "/safety/download-site-risk"
       },
       {
-        "text": "ChatGPT 账号密码和验证码安全指南",
+        "text": "ChatGPT钓鱼链接怎么识别？短链接、群分享与假登录页",
+        "link": "/safety/phishing-link-check"
+      },
+      {
+        "text": "ChatGPT镜像网站能不能用？中文版入口与账号风险分析",
+        "link": "/safety/mirror-risk"
+      },
+      {
+        "text": "ChatGPT账号密码安全吗？登录、验证码与第三方注册防护",
         "link": "/safety/account-password-safety"
       },
       {
-        "text": "ChatGPT 中文版镜像网站汇总怎么看",
+        "text": "ChatGPT中文版镜像网站汇总怎么看？入口清单与风险核验",
         "link": "/safety/mirror-site-list-how-to-read"
       },
       {
-        "text": "ChatGPT 中文版网站风险判断",
+        "text": "ChatGPT中文版网站安全吗？中文官网、镜像与教程站核验",
         "link": "/safety/chinese-version-risk"
       },
       {
-        "text": "ChatGPT 仿冒网站识别清单",
+        "text": "ChatGPT仿冒网站怎么识别？假官网、钓鱼页与下载入口清单",
         "link": "/safety/fake-site-checklist"
       },
       {
-        "text": "ChatGPT 官网和中文版镜像有什么区别",
+        "text": "ChatGPT官网和中文版镜像有什么区别？账号与数据风险",
         "link": "/safety/official-vs-mirror"
       }
     ]
@@ -839,11 +839,11 @@ const articleSidebar = [
         "link": "/domestic/coding-ai-tools"
       },
       {
-        "text": "国内如何使用 ChatGPT",
+        "text": "国内如何使用ChatGPT？官方入口、访问排查与替代方案",
         "link": "/domestic/use"
       },
       {
-        "text": "国内使用 ChatGPT 的几种方案",
+        "text": "国内使用ChatGPT怎么选？官网、网页版与第三方方案",
         "link": "/domestic/domestic-access-plan"
       },
       {

@@ -71,8 +71,8 @@
 - [ChatGPT国内使用入口怎么选：官网、网页版、中文版和国内可用方案](https://chatgpt-guanwang.com/domestic/chatgpt-domestic-use-entry-product-guide-2026-07): 面向中文用户整理ChatGPT国内使用入口选择方法，区分chatgpt.com官网、网页版、中文版工具站、镜像站和国内可用方案，并说明GPTCat、SnakeGPT、ZeoGPT适合的场景。
 - [Codex国内怎么用：官网安装、代码权限和ZeoGPT备用方案](https://chatgpt-guanwang.com/domestic/codex-domestic-use-install-zeogpt-2026-07): 面向国内开发者整理Codex国内使用思路，说明OpenAI Codex官网入口、CLI和桌面端安全核验、代码权限风险，以及ZeoGPT作为第三方开发者备用方案的适用场景。
 - [国内开发者如何使用 ChatGPT/Codex 类工具](https://chatgpt-guanwang.com/domestic/coding-ai-tools): 面向国内开发者介绍 ChatGPT、Codex 类工具、代码问答、报错排查、长文本上下文和第三方平台选择建议。
-- [国内如何使用 ChatGPT](https://chatgpt-guanwang.com/domestic/use): 面向中文用户说明国内使用 ChatGPT 的官方入口、安全边界、打不开时的排查方法，以及可作为练习环境的国内可用方案。
-- [国内使用 ChatGPT 的几种方案](https://chatgpt-guanwang.com/domestic/domestic-access-plan): 面向国内中文用户整理使用 ChatGPT 官方入口、第三方多模型平台、学习练习环境和安全注意事项。
+- [国内如何使用ChatGPT？官方入口、访问排查与替代方案](https://chatgpt-guanwang.com/domestic/use): 面向中文用户说明国内使用 ChatGPT 时如何核对官方入口，排查打不开、登录失败和网络限制，并了解第三方练习环境的账号、隐私与功能边界。
+- [国内使用ChatGPT怎么选？官网、网页版与第三方方案](https://chatgpt-guanwang.com/domestic/domestic-access-plan): 面向国内中文用户整理 ChatGPT 官方入口、网页版、第三方多模型平台和学习练习环境的选择方法，说明访问限制、账号隐私与安全注意事项。
 - [国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型](https://chatgpt-guanwang.com/domestic/model-choice): 从写作、学习、代码、长文本、图像和语音视频等场景，说明国内用户如何选择 GPT、Claude、Gemini、DeepSeek、Grok 等模型。
 - [ChatGPT 官网无法访问时的国内备选方案](https://chatgpt-guanwang.com/domestic/no-official-access-alternatives): 说明 ChatGPT 官网无法访问时如何排查，以及国内第三方 AI 平台、多模型工具和开发者方案如何选择。
 - [ChatGPT 国内怎么使用：官网、镜像与国内可用方案完整指南](https://chatgpt-guanwang.com/domestic/domestic-mirror-complete-plan): 面向国内用户系统整理 ChatGPT 国内怎么使用，包括官网入口、网页登录、App 下载、镜像站风险、第三方多模型平台、产品推荐和安全访问清单。

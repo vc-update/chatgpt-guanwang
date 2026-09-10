@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 注册账号与邮箱验证指南
-description: 介绍 ChatGPT 注册账号、邮箱验证、验证码安全和常见注册问题。
+title: ChatGPT注册与邮箱验证：官网入口、验证码和账号安全指南
+description: 说明如何从官方入口开始 ChatGPT 注册与邮箱验证，整理验证码收不到、邮箱登录和第三方代注册风险，帮助新用户安全完成账号设置。
 date: 2026-06-22
 updated: 2026-06-22
 faq:

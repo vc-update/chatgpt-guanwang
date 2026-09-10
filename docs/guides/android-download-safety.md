@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 安卓版下载安全吗
-description: 说明 ChatGPT Android 下载入口、APK 风险、Google Play 核对和假 App 权限识别。
+title: ChatGPT安卓版下载安全吗？官方入口与APK风险核对
+description: 说明 ChatGPT Android 官方下载入口、Google Play 核对、APK 文件风险和假 App 权限识别方法，避免从陌生网站安装未知客户端。
 date: 2026-06-22
 updated: 2026-06-22
 faq:

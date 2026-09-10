@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 登录失败怎么办
-description: 排查 ChatGPT 登录失败、验证码收不到、登录后跳出、页面循环加载等常见问题。
+title: ChatGPT登录失败怎么办？验证码、跳转和页面循环排查
+description: 按入口、账号、验证码、Cookie、浏览器和网络顺序排查 ChatGPT 登录失败、登录后跳出、页面循环加载等问题，并提醒不要在陌生页面提交密码。
 date: 2026-06-22
 updated: 2026-06-22
 faq:

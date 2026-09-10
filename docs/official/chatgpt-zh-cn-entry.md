@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 中文入口与官方地址核对指南
-description: 说明 ChatGPT 中文入口、zh-CN 页面、官方地址和第三方中文站点之间的区别。
+title: ChatGPT中文入口怎么找？zh-CN页面与官方地址核对指南
+description: 说明 ChatGPT 中文入口、zh-CN 页面、官方域名和第三方中文站点的区别，整理网页版、App、登录页与仿冒入口的安全核对步骤。
 date: 2026-06-22
 updated: 2026-06-22
 faq:
@@ -44,4 +44,3 @@ faq:
 ### 中文入口和网页版入口是同一个吗？
 
 官方语境下，网页版入口仍是 `chatgpt.com`。中文只是界面语言或内容语言。
-

@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 下载与安装教程
-description: 汇总 ChatGPT iOS、Android、Windows、macOS 下载入口和安装前的安全核对方法。
+title: ChatGPT下载与安装教程：iOS、Android、Windows和macOS入口
+description: 汇总 ChatGPT iOS、Android、Windows 和 macOS 官方下载入口，说明应用商店、桌面端和安装包的安全核对方法，避免下载假客户端。
 date: 2026-06-22
 updated: 2026-06-22
 faq:

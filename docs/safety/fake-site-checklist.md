@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 仿冒网站识别清单
-description: 提供 ChatGPT 仿冒网站、假官网、钓鱼登录页和假下载入口的识别清单与处理建议。
+title: ChatGPT仿冒网站怎么识别？假官网、钓鱼页与下载入口清单
+description: 提供 ChatGPT 仿冒网站、假官网、钓鱼登录页和假下载入口的识别清单，覆盖域名、证书、跳转、密码验证码和异常付款提示。
 date: 2026-06-21
 updated: 2026-06-21
 faq:

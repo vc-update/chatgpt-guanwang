@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 官方网址是哪个
-description: 解释 ChatGPT 官方网址、OpenAI 官网、登录入口和下载入口的区别，并给出核对官方地址的方法。
+title: ChatGPT官方网址是哪个？官网、登录与下载入口核对
+description: 解释 ChatGPT 官方网址、OpenAI 官网、登录页面和应用下载入口的区别，提供域名、跳转和证书核对方法，避免误入仿冒站。
 date: 2026-06-21
 updated: 2026-06-21
 faq:

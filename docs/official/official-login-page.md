@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 官方登录页怎么辨别
-description: 介绍 ChatGPT 官方登录页的辨别方法，帮助用户避免钓鱼登录页、假客服和验证码泄露。
+title: ChatGPT官方登录页怎么辨别？域名、验证码与钓鱼风险
+description: 介绍 ChatGPT 官方登录页的域名、HTTPS、跳转和账号提示核对方法，帮助用户识别钓鱼登录页、假客服与验证码泄露风险。
 date: 2026-06-22
 updated: 2026-06-22
 faq:

@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 打不开怎么办
-description: 排查 ChatGPT 打不开、登录失败、网页白屏、加载慢和官网无法访问的常见原因与安全处理方法。
+title: ChatGPT打不开怎么办？官网白屏、加载慢与登录失败排查
+description: 详细排查 ChatGPT 官网打不开、白屏、加载慢、Access Denied 和登录失败，覆盖域名、网络、DNS、Cookie、浏览器扩展与账号状态检查。
 date: 2026-06-21
 updated: 2026-06-21
 faq:
