@@ -2,7 +2,7 @@
 title: "最新更新：ChatGPT 官网入口与安全识别文章"
 description: "按文章真实更新时间倒序整理 ChatGPT 官网入口、网页版登录、App 下载、账号与付款安全、镜像站风险和国内访问文章。"
 date: 2026-06-29
-updated: 2026-09-09
+updated: 2026-09-11
 outline: deep
 ---
 
@@ -12,6 +12,7 @@ outline: deep
 
 | 更新时间 | 文章 | 栏目 |
 | :--- | :--- | :--- |
+| 2026-09-11 | [ChatGPT 官网最新地址：chatgpt 国内访问与中文版使用指南 \| ChatGPT中文网](/official/chatgpt-guanwang-rukou-2026) | 官方入口 |
 | 2026-09-09 | [ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】](/guides/chatgpt-image-2-5-release-features-editing-guide-20260909) | 使用教程 |
 | 2026-09-08 | [ChatGPT 两步验证怎么设置？登录安全、验证器与恢复检查清单【2026年9月】](/safety/chatgpt-account-two-factor-authentication-security-check-20260908) | 安全识别 |
 | 2026-09-07 | [GPT-6 Astra怎么用？官网入口、模型菜单与开放范围核验指南【2026年9月】](/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907) | 使用教程 |
@@ -49,7 +50,6 @@ outline: deep
 | 2026-07-24 | [ChatGPT官网打不开怎么办？chatgpt.com、Access Denied与登录页面排查【2026年7月更新】](/official/chatgpt-official-cannot-open-access-denied-login-troubleshoot-20260724) | 官方入口 |
 | 2026-07-24 | [ChatGPT官网入口：搜索结果、官方网址与假登录页面辨别教程【2026年7月更新】](/official/chatgpt-official-entry-search-result-url-fake-login-check-20260724) | 官方入口 |
 | 2026-07-23 | [ChatGPT官网入口：网页版登录地址、中文版界面与官方网址核对【2026年7月更新】](/official/chatgpt-official-web-login-address-chinese-check-20260723) | 官方入口 |
-| 2026-07-22 | [ChatGPT官网入口：国内打开ChatGPT中文版与网页版完整教程【2026年7月更新】](/official/chatgpt-guanwang-rukou-2026) | 官方入口 |
 | 2026-07-21 | [ChatGPT官网入口网页版：登录页面循环跳转、Cookie与账号方式排查【2026年7月】](/safety/chatgpt-official-web-login-loop-cookie-account-method-troubleshoot-20260721) | 安全识别 |
 | 2026-07-20 | [ChatGPT官网临时聊天怎么用？聊天记录、数据设置与隐私检查指南【2026年7月】](/safety/chatgpt-official-temporary-chat-history-data-controls-privacy-guide-20260720) | 安全识别 |
 | 2026-07-19 | [ChatGPT官网登录安全吗？官方网址、浏览器提示与账号信息核验清单【2026年7月】](/safety/chatgpt-official-login-security-url-browser-account-checklist-20260719) | 安全识别 |

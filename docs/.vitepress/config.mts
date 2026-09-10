@@ -189,6 +189,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "ChatGPT 官网最新地址：chatgpt 国内访问与中文版使用指南 | ChatGPT中文网",
+        "link": "/official/chatgpt-guanwang-rukou-2026"
+      },
+      {
         "text": "ChatGPT官网怎么收藏才安全？官方地址核验、书签设置与假站防范清单【2026年8月】",
         "link": "/official/bookmark-safe-entry"
       },
@@ -235,10 +239,6 @@ const articleSidebar = [
       {
         "text": "ChatGPT官网入口：网页版登录地址、中文版界面与官方网址核对【2026年7月更新】",
         "link": "/official/chatgpt-official-web-login-address-chinese-check-20260723"
-      },
-      {
-        "text": "ChatGPT官网入口：国内打开ChatGPT中文版与网页版完整教程【2026年7月更新】",
-        "link": "/official/chatgpt-guanwang-rukou-2026"
       },
       {
         "text": "ChatGPT官网入口地址是什么？chatgpt.com、OpenAI官网与国内使用完整指南【2026年7月】",
