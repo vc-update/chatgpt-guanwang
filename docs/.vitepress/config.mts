@@ -439,6 +439,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "GPT-6 Astra国内怎么用？模型菜单、API权限与实际功能核验指南【2026年9月】",
+        "link": "/guides/gpt-6-astra-domestic-use-model-menu-api-permission-guide-20260911"
+      },
+      {
         "text": "ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】",
         "link": "/guides/chatgpt-image-2-5-release-features-editing-guide-20260909"
       },
