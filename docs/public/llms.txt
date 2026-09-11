@@ -29,6 +29,7 @@
 
 ## 使用教程
 
+- [ChatGPT 中文版：免费使用指南与镜像网站推荐，支持OpenAI最新模型GPT-6，GPT-5.6sol(2026最新)](https://chatgpt-guanwang.com/guides/chatgpt-chinese-free-mirror-gpt6-gpt56sol-guide-20260911): 整理ChatGPT中文版免费使用方法、官网入口、镜像与第三方平台选择，说明GPT-6和GPT-5.6 Sol模型菜单如何核验，并提供中文问答、写作、图片与代码任务的安全使用建议。
 - [GPT-6 Astra国内怎么用？模型菜单、API权限与实际功能核验指南【2026年9月】](https://chatgpt-guanwang.com/guides/gpt-6-astra-domestic-use-model-menu-api-permission-guide-20260911): 面向中文用户整理GPT-6 Astra国内使用与核验方法，说明ChatGPT模型菜单、API权限、开放范围、第三方产品入口和实际测试步骤，避免把宣传截图误认为可用权限。
 - [ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-image-2-5-release-features-editing-guide-20260909): 整理ChatGPT Image 2.5官方资讯、图片生成与编辑变化、中文提示词写法、实拍图修改案例和使用入口，并介绍GPTCat与SnakeGPT的图片工作流。
 - [GPT-6 Astra怎么用？官网入口、模型菜单与开放范围核验指南【2026年9月】](https://chatgpt-guanwang.com/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907): 说明GPT-6 Astra如何核对官网入口、模型菜单和开放范围，区分ChatGPT、API与第三方产品，并介绍GPTCat与SnakeGPT的实际使用场景和安全边界。
@@ -43,7 +44,6 @@
 - [ChatGPT提示词怎么写：中文办公、写作、翻译和总结模板【2026年8月】](https://chatgpt-guanwang.com/guides/chatgpt-prompt-writing-chinese-office-translation-summary-20260805): ChatGPT提示词怎么写才更好用？面向中文用户整理办公写作、翻译润色、资料总结、表格分析和新手提问模板，并说明官网入口、国内备用工具和隐私安全边界。
 - [ChatGPT在线使用入口：网页版免下载、手机电脑和国内备用方案【2026年8月】](https://chatgpt-guanwang.com/guides/chatgpt-online-use-web-mobile-desktop-domestic-backup-20260803): ChatGPT在线使用入口指南，说明ChatGPT网页版免下载怎么用，手机和电脑如何核对chatgpt.com，官网打不开时如何选择国内备用方案，并提醒账号、隐私和仿冒站风险。
 - [ChatGPT 网页版入口速查：官网地址与完整使用教程导航](https://chatgpt-guanwang.com/guides/web): 快速核对 ChatGPT 网页版官方地址、免下载使用要点和安全提醒；手机电脑中文登录、打不开排查请查看完整教程。
-- [ChatGPT网页版登录和下载怎么选：官网入口、App安装与国内备用方案](https://chatgpt-guanwang.com/guides/chatgpt-web-login-download-guide-2026-07): 整理ChatGPT网页版登录、官方入口、App下载、桌面端安装和国内备用方案，帮助用户区分chatgpt.com官网、应用商店、中文版工具站和假安装包风险。
 
 ## 安全识别
 

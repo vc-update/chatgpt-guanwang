@@ -439,6 +439,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "ChatGPT 中文版：免费使用指南与镜像网站推荐，支持OpenAI最新模型GPT-6，GPT-5.6sol(2026最新)",
+        "link": "/guides/chatgpt-chinese-free-mirror-gpt6-gpt56sol-guide-20260911"
+      },
+      {
         "text": "GPT-6 Astra国内怎么用？模型菜单、API权限与实际功能核验指南【2026年9月】",
         "link": "/guides/gpt-6-astra-domestic-use-model-menu-api-permission-guide-20260911"
       },
