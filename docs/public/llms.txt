@@ -65,6 +65,7 @@
 
 ## 国内方案
 
+- [ChatGPT国内镜像站完全指南：2026年稳定可用的镜像网站汇总](https://chatgpt-guanwang.com/domestic/chatgpt-domestic-mirror-sites-complete-guide-20260914): 2026年9月更新ChatGPT国内镜像站指南，汇总当前可访问的GPTCat与SnakeGPT，介绍GPT-6、多模型、图片、代码和研究功能，并提供稳定性、账号、隐私与付款核验清单。
 - [ChatGPT中文版：官网中文使用、国内入口与镜像网站指南](https://chatgpt-guanwang.com/domestic/chinese-version-free-use): ChatGPT中文版使用指南：说明官网如何用中文、国内入口怎么选、网页版与镜像网站的区别，并提供账号、隐私、文件和登录安全检查。
 - [ChatGPT国内用户使用指南：官网、中文版镜像与多模型工具怎么选【2026年8月】](https://chatgpt-guanwang.com/domestic/chatgpt-china-user-guide-official-mirror-multimodel-20260803): 面向国内用户整理ChatGPT使用指南，说明ChatGPT官网、ChatGPT中文版镜像、多模型工具和国内备用方案怎么选，并自然比较SnakeGPT、GPTCat、ZeoGPT的适合场景。
 - [ChatGPT国内如何使用：官网打不开时的网页版和第三方方案](https://chatgpt-guanwang.com/domestic/chatgpt-china-use-official-cannot-open-web-third-party-20260714): ChatGPT国内如何使用？本文说明官网打不开时如何核对chatgpt.com、排查网页版、选择第三方国内方案，并提醒账号、隐私和仿冒入口风险。

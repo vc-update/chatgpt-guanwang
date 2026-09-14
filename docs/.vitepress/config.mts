@@ -823,6 +823,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "ChatGPT国内镜像站完全指南：2026年稳定可用的镜像网站汇总",
+        "link": "/domestic/chatgpt-domestic-mirror-sites-complete-guide-20260914"
+      },
+      {
         "text": "ChatGPT中文版：官网中文使用、国内入口与镜像网站指南",
         "link": "/domestic/chinese-version-free-use"
       },
