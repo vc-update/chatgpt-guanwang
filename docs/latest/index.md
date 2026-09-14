@@ -12,8 +12,8 @@ outline: deep
 
 | 更新时间 | 文章 | 栏目 |
 | :--- | :--- | :--- |
+| 2026-09-14 | [ChatGPT 官网最新地址：chatgpt 国内访问与中文版使用指南 \| ChatGPT中文站](/official/chatgpt-guanwang-rukou-2026) | 官方入口 |
 | 2026-09-14 | [ChatGPT国内镜像站完全指南：2026年稳定可用的镜像网站汇总](/domestic/chatgpt-domestic-mirror-sites-complete-guide-20260914) | 国内方案 |
-| 2026-09-11 | [ChatGPT 官网最新地址：chatgpt 国内访问与中文版使用指南 \| ChatGPT中文网](/official/chatgpt-guanwang-rukou-2026) | 官方入口 |
 | 2026-09-11 | [ChatGPT 中文版：免费使用指南与镜像网站推荐，支持OpenAI最新模型GPT-6，GPT-5.6sol(2026最新)](/guides/chatgpt-chinese-free-mirror-gpt6-gpt56sol-guide-20260911) | 使用教程 |
 | 2026-09-11 | [GPT-6 Astra国内怎么用？模型菜单、API权限与实际功能核验指南【2026年9月】](/guides/gpt-6-astra-domestic-use-model-menu-api-permission-guide-20260911) | 使用教程 |
 | 2026-09-09 | [ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】](/guides/chatgpt-image-2-5-release-features-editing-guide-20260909) | 使用教程 |

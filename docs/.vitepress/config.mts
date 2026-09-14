@@ -189,7 +189,7 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
-        "text": "ChatGPT 官网最新地址：chatgpt 国内访问与中文版使用指南 | ChatGPT中文网",
+        "text": "ChatGPT 官网最新地址：chatgpt 国内访问与中文版使用指南 | ChatGPT中文站",
         "link": "/official/chatgpt-guanwang-rukou-2026"
       },
       {

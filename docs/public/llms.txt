@@ -11,7 +11,7 @@
 
 ## 官方入口
 
-- [ChatGPT 官网最新地址：chatgpt 国内访问与中文版使用指南 | ChatGPT中文网](https://chatgpt-guanwang.com/official/chatgpt-guanwang-rukou-2026): 2026年9月更新ChatGPT官网地址、chatgpt.com网页版登录入口、ChatGPT中文版与国内访问说明，覆盖GPT-6 Astra、Image 2.5、免费版与Plus、App、图片、研究、语音和第三方产品选择。
+- [ChatGPT 官网最新地址：chatgpt 国内访问与中文版使用指南 | ChatGPT中文站](https://chatgpt-guanwang.com/official/chatgpt-guanwang-rukou-2026): 2026年9月更新ChatGPT官网地址、chatgpt.com网页版登录入口、ChatGPT中文版与国内访问说明，覆盖GPT-6 Astra、Image 2.5、免费版与Plus、App、图片、研究、语音和第三方产品选择。
 - [ChatGPT官网怎么收藏才安全？官方地址核验、书签设置与假站防范清单【2026年8月】](https://chatgpt-guanwang.com/official/bookmark-safe-entry): 教你确认真正的 ChatGPT 官网地址，把 chatgpt.com 等官方入口安全收藏为书签，并给出假站防范、官网打不开时的排查清单，避免每次被搜索结果里的仿冒站带偏。
 - [ChatGPT官网登录入口：官方登录地址、国内访问与注册登录失败排查【2026年8月】](https://chatgpt-guanwang.com/official/chatgpt-official-login-entry-china-access-guide-2026): ChatGPT官网登录入口到底是哪个地址？本文核对 chatgpt.com 与 auth 登录页的官方入口，讲清邮箱、Google、Apple 三种登录方式的适用场景，并按步骤排查国内访问失败、注册登录报错与账号安全风险，帮你找到正确入口。
 - [ChatGPT官网入口在哪里：官方网址、登录入口与国内访问核验【2026年8月】](https://chatgpt-guanwang.com/official/chatgpt-official-entry-domestic-use-tutorial-cn-login-20260714): ChatGPT官网入口唯一官方地址核对清单：说明 chatgpt.com 官方域名、OpenAI 账号登录方式、搜索结果里的仿冒站辨别、国内访问受限原因和官网打不开时的排查顺序。
