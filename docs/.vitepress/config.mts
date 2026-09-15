@@ -439,6 +439,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "ChatGPT个性化设置怎么用？自定义指令、语言、记忆和隐私选项说明【2026年9月】",
+        "link": "/guides/chatgpt-personalization-custom-instructions-language-memory-privacy-20260915"
+      },
+      {
         "text": "ChatGPT 中文版：免费使用指南与镜像网站推荐，支持OpenAI最新模型GPT-6，GPT-5.6sol(2026最新)",
         "link": "/guides/chatgpt-chinese-free-mirror-gpt6-gpt56sol-guide-20260911"
       },
