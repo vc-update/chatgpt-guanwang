@@ -2,7 +2,7 @@
 title: "最新更新：ChatGPT 官网入口与安全识别文章"
 description: "按文章真实更新时间倒序整理 ChatGPT 官网入口、网页版登录、App 下载、账号与付款安全、镜像站风险和国内访问文章。"
 date: 2026-06-29
-updated: 2026-09-15
+updated: 2026-09-16
 outline: deep
 ---
 
@@ -12,6 +12,8 @@ outline: deep
 
 | 更新时间 | 文章 | 栏目 |
 | :--- | :--- | :--- |
+| 2026-09-16 | [ChatGPT 国内怎么使用？（官网 + 镜像完整方案）chatgpt中文版教程](/domestic/chatgpt-china-use-official-mirror-tutorial-20260916) | 国内方案 |
+| 2026-09-16 | [ChatGPT镜像站安全边界：账号凭据、API Key与上传文件的风险清单](/safety/chatgpt-china-official-mirror-complete-solution-2026-06) | 安全识别 |
 | 2026-09-15 | [ChatGPT个性化设置怎么用？自定义指令、语言、记忆和隐私选项说明【2026年9月】](/guides/chatgpt-personalization-custom-instructions-language-memory-privacy-20260915) | 使用教程 |
 | 2026-09-14 | [ChatGPT 官网最新地址：chatgpt 国内访问与中文版使用指南 \| ChatGPT中文站](/official/chatgpt-guanwang-rukou-2026) | 官方入口 |
 | 2026-09-14 | [ChatGPT国内镜像站完全指南：2026年稳定可用的镜像网站汇总](/domestic/chatgpt-domestic-mirror-sites-complete-guide-20260914) | 国内方案 |
@@ -128,7 +130,6 @@ outline: deep
 | 2026-06-30 | [ChatGPT镜像网站安全吗？免费入口、免登录、账号风险和正版区别完整指南](/safety/chatgpt-mirror-free-no-login-official-difference-2026-06) | 安全识别 |
 | 2026-06-29 | [Bing搜索ChatGPT官网结果怎么判断真假？2026搜索页核验指南](/safety/chatgpt-bing-search-official-result-check-2026) | 安全识别 |
 | 2026-06-29 | [ChatGPT 官方网址是哪个？2026 国内用户避坑与真假入口核验](/safety/chatgpt-official-url-real-fake-check-2026-06) | 安全识别 |
-| 2026-06-29 | [ChatGPT 国内怎么使用？（官网 + 镜像完整方案）](/safety/chatgpt-china-official-mirror-complete-solution-2026-06) | 安全识别 |
 | 2026-06-29 | [ChatGPT 中文版免费入口靠谱吗？镜像网站、网页登录和账号安全指南](/safety/chatgpt-chinese-free-entry-mirror-safety-2026-06) | 安全识别 |
 | 2026-06-29 | [ChatGPT官网打不开怎么办？2026网页版访问、登录失败和网络排查](/safety/chatgpt-official-entry-cannot-open-2026) | 安全识别 |
 | 2026-06-29 | [ChatGPT官网和中文版有什么区别？2026官方服务、镜像站和风险说明](/safety/chatgpt-official-website-vs-chinese-version-2026) | 安全识别 |

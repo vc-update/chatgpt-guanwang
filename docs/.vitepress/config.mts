@@ -573,6 +573,10 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "ChatGPT镜像站安全边界：账号凭据、API Key与上传文件的风险清单",
+        "link": "/safety/chatgpt-china-official-mirror-complete-solution-2026-06"
+      },
+      {
         "text": "ChatGPT 两步验证怎么设置？登录安全、验证器与恢复检查清单【2026年9月】",
         "link": "/safety/chatgpt-account-two-factor-authentication-security-check-20260908"
       },
@@ -725,10 +729,6 @@ const articleSidebar = [
         "link": "/safety/chatgpt-official-url-real-fake-check-2026-06"
       },
       {
-        "text": "ChatGPT 国内怎么使用？（官网 + 镜像完整方案）",
-        "link": "/safety/chatgpt-china-official-mirror-complete-solution-2026-06"
-      },
-      {
         "text": "ChatGPT 中文版免费入口靠谱吗？镜像网站、网页登录和账号安全指南",
         "link": "/safety/chatgpt-chinese-free-entry-mirror-safety-2026-06"
       },
@@ -826,6 +826,10 @@ const articleSidebar = [
     "text": "国内方案",
     "collapsed": false,
     "items": [
+      {
+        "text": "ChatGPT 国内怎么使用？（官网 + 镜像完整方案）chatgpt中文版教程",
+        "link": "/domestic/chatgpt-china-use-official-mirror-tutorial-20260916"
+      },
       {
         "text": "ChatGPT国内镜像站完全指南：2026年稳定可用的镜像网站汇总",
         "link": "/domestic/chatgpt-domestic-mirror-sites-complete-guide-20260914"
