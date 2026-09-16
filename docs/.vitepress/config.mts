@@ -149,6 +149,38 @@ function jsonLd(data: Record<string, unknown>): HeadConfig {
   return ['script', { type: 'application/ld+json' }, JSON.stringify(data)]
 }
 
+type FaqEntry = { question: string; answer: string }
+
+// Build FAQPage JSON-LD from the `faq:` frontmatter array. Entries missing a
+// question or answer are dropped; returns undefined when nothing usable remains
+// so callers never emit an empty mainEntity.
+function faqJsonLd(faq: unknown): HeadConfig | undefined {
+  if (!Array.isArray(faq)) return undefined
+  const entries: FaqEntry[] = []
+  for (const item of faq) {
+    if (!item || typeof item !== 'object') continue
+    const { question, answer } = item as Record<string, unknown>
+    if (typeof question !== 'string' || typeof answer !== 'string') continue
+    const q = question.trim()
+    const a = answer.trim()
+    if (!q || !a) continue
+    entries.push({ question: q, answer: a })
+  }
+  if (entries.length === 0) return undefined
+  return jsonLd({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: entries.map((entry) => ({
+      '@type': 'Question',
+      name: entry.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: entry.answer
+      }
+    }))
+  })
+}
+
 function sourceFileForPath(path: string) {
   const pathname = new URL(path, siteUrl).pathname
   const cleanPath = pathname.replace(/^\/+|\/+$/gu, '')
@@ -1043,6 +1075,9 @@ export default defineConfig({
       })
     )
 
+    const faq = faqJsonLd(frontmatter.faq)
+    if (faq) head.push(faq)
+
     return head
   },
   sitemap: {
@@ -1050,7 +1085,11 @@ export default defineConfig({
     transformItems(items) {
       return items.map((item) => ({
         ...item,
-        lastmod: item.lastmod || sourceDateForPath(item.url)
+        // Frontmatter wins over VitePress's git-derived lastmod: Vercel builds
+        // from a shallow clone, so the git timestamp collapses to the checkout
+        // date for nearly every file. Frontmatter is deterministic and matches
+        // the real content update.
+        lastmod: sourceDateForPath(item.url) || item.lastmod
       }))
     }
   }
