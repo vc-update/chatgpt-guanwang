@@ -14,7 +14,18 @@ const officialSourceDomains = [
   'help.openai.com',
   'status.openai.com',
   'platform.openai.com',
-  'developers.openai.com'
+  'developers.openai.com',
+  'anthropic.com',
+  'claude.com',
+  'claude.ai',
+  'platform.claude.com',
+  'code.claude.com',
+  'google.com',
+  'blog.google',
+  'deepmind.google',
+  'ai.google.dev',
+  'gemini.google.com',
+  'aistudio.google.com'
 ]
 
 const sectionNames: Record<string, string> = {
@@ -220,6 +231,10 @@ const articleSidebar = [
     "text": "官方入口",
     "collapsed": false,
     "items": [
+      {
+        "text": "ChatGPT官网登录后历史记录不见了怎么办？账号方式、设备与同步排查【2026年9月】",
+        "link": "/official/chatgpt-official-login-history-missing-new-device-20260927"
+      },
       {
         "text": "ChatGPT 官网最新地址：chatgpt 国内访问与中文版使用指南 | ChatGPT中文站",
         "link": "/official/chatgpt-guanwang-rukou-2026"
@@ -471,6 +486,34 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
+        "text": "chatgpt6是真的吗？GPT-6.1 Sol、官网信息与模型菜单核验指南【2026年10月】",
+        "link": "/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927"
+      },
+      {
+        "text": "Claude 5.5 更新了什么？Opus、Sonnet、Haiku 怎么选，官网入口与国内使用核验指南（2026）",
+        "link": "/guides/claude-5-5-models-official-entry-domestic-guide-20261009"
+      },
+      {
+        "text": "Gemini 4 Argon 是什么？官方入口、开放资格与国内使用安全核验指南（2026）",
+        "link": "/guides/gemini-4-argon-official-entry-eligibility-domestic-guide-20261009"
+      },
+      {
+        "text": "ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】",
+        "link": "/guides/chatgpt-image-2-5-release-features-editing-guide-20260909"
+      },
+      {
+        "text": "GPT Images 2.5 图片编辑教程：上传图片、局部修改、改字与失败排查（2026）",
+        "link": "/guides/gpt-images-2-5-image-editing-tutorial-20261008"
+      },
+      {
+        "text": "GPT Images 2.5 怎么用？中文提示词、海报与商品图生成教程（2026）",
+        "link": "/guides/gpt-images-2-5-prompt-generation-tutorial-20261008"
+      },
+      {
+        "text": "ChatGPT网页版跨设备使用指南：手机电脑登录、历史记录同步与隐私设置【2026年9月】",
+        "link": "/guides/chatgpt-web-cross-device-history-privacy-20260927"
+      },
+      {
         "text": "ChatGPT个性化设置怎么用？自定义指令、语言、记忆和隐私选项说明【2026年9月】",
         "link": "/guides/chatgpt-personalization-custom-instructions-language-memory-privacy-20260915"
       },
@@ -481,10 +524,6 @@ const articleSidebar = [
       {
         "text": "GPT-6 Astra国内怎么用？模型菜单、API权限与实际功能核验指南【2026年9月】",
         "link": "/guides/gpt-6-astra-domestic-use-model-menu-api-permission-guide-20260911"
-      },
-      {
-        "text": "ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】",
-        "link": "/guides/chatgpt-image-2-5-release-features-editing-guide-20260909"
       },
       {
         "text": "GPT-6 Astra怎么用？官网入口、模型菜单与开放范围核验指南【2026年9月】",
@@ -859,7 +898,11 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
-        "text": "ChatGPT 国内怎么使用？（官网 + 镜像完整方案）chatgpt中文版教程",
+        "text": "国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型",
+        "link": "/domestic/model-choice"
+      },
+      {
+        "text": "ChatGPT 官网入口、ChatGPT 网页版、GPT-6、ChatGPT 国内访问完全指南（2026）",
         "link": "/domestic/chatgpt-china-use-official-mirror-tutorial-20260916"
       },
       {
@@ -897,10 +940,6 @@ const articleSidebar = [
       {
         "text": "国内使用ChatGPT怎么选？官网、网页版与第三方方案",
         "link": "/domestic/domestic-access-plan"
-      },
-      {
-        "text": "国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型",
-        "link": "/domestic/model-choice"
       },
       {
         "text": "ChatGPT 官网无法访问时的国内备选方案",

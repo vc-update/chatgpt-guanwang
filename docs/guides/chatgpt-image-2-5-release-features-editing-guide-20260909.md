@@ -2,7 +2,7 @@
 title: "ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】"
 description: "整理ChatGPT Image 2.5官方资讯、图片生成与编辑变化、中文提示词写法、实拍图修改案例和使用入口，并介绍GPTCat与SnakeGPT的图片工作流。"
 date: 2026-09-09
-updated: 2026-09-09
+updated: 2026-10-08
 outline: deep
 aside: true
 sidebar: true
@@ -176,5 +176,7 @@ Image 2.5的另一个常见用法，是修改已有图片中的标题或说明�
 ## 总结
 
 ChatGPT Image 2.5的实用价值，不只是生成更漂亮的图片，而是让“上传—修改—复核”的流程更连贯。想尝试时，先从官方页面确认入口，再用低敏素材做小范围测试。需要多模型对比和图片工作流，可以了解GPTCat；偏中文提示词和内容练习，可以了解SnakeGPT。无论使用哪种入口，都请以当前模型菜单和公告为准，并在发布前完成版权、隐私和事实核验。
+
+想按步骤练习，可继续阅读：[GPT Images 2.5 中文提示词、海报与商品图生成教程](/guides/gpt-images-2-5-prompt-generation-tutorial-20261008) 和 [GPT Images 2.5 图片编辑教程：上传图片、局部修改、改字与失败排查](/guides/gpt-images-2-5-image-editing-tutorial-20261008)。
 
 

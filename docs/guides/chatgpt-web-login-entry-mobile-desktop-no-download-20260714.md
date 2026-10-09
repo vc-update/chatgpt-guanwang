@@ -25,6 +25,8 @@ faq:
 
 <p class="article-meta">更新日期：2026-08-08｜本站为非官方独立整理，不属于 OpenAI 或 ChatGPT 官方网站。</p>
 
+<p class="article-note">需要在手机和电脑之间切换，或遇到历史记录不同步时，请继续查看<a href="/guides/chatgpt-web-cross-device-history-privacy-20260927">ChatGPT网页版跨设备使用：登录、同步与隐私设置</a>。</p>
+
 <div class="quick-answer">
   <strong>直接答案：</strong>ChatGPT 网页版不需要下载安装，手机和电脑都可以在浏览器中打开。官方产品入口优先核对 <code>chatgpt.com</code>，OpenAI 公司官网以 <code>openai.com</code> 为准。进入页面后先确认地址栏，再按当前登录流程操作；不要从陌生短链接、下载站或“内部入口”页面输入账号信息。
 </div>

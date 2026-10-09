@@ -2,7 +2,7 @@
 title: 国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型
 description: 从写作、学习、代码、长文本、图像和语音视频等场景，说明国内用户如何选择 GPT、Claude、Gemini、DeepSeek、Grok 等模型。
 date: 2026-06-22
-updated: 2026-06-22
+updated: 2026-10-09
 faq:
   - question: 国内用户一定要只用 GPT 吗？
     answer: 不一定。写作、代码、长文本、图像和检索等场景可以尝试不同模型，并根据结果稳定性选择。
@@ -44,6 +44,16 @@ faq:
 
 很多文章会在标题里写“GPT-5”“Claude”“Gemini”“DeepSeek”。这些词能吸引搜索点击，但真正影响体验的是可用性、上下文、响应稳定性、任务适配和数据安全。
 
+## 近期型号怎么核验
+
+近期搜索结果中出现了 Claude 5.5、Gemini 4 Argon 和 GPT-6.1 Sol 等新型号。阅读这类热点时，建议先看原始发布页和自己账号的模型菜单，再比较功能，不要把第三方平台的模型标签直接当成官方权限：
+
+- [Claude 5.5：Opus、Sonnet、Haiku 版本选择与官网入口](/guides/claude-5-5-models-official-entry-domestic-guide-20261009)
+- [Gemini 4 Argon：官方入口与开放资格核验](/guides/gemini-4-argon-official-entry-eligibility-domestic-guide-20261009)
+- [GPT-6.1 Sol 与 chatgpt6 信息核验](/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927)
+
+这些文章只做非官方独立整理。模型发布、账号权限、地区可用性和第三方服务状态可能变化，重要操作仍应回到对应厂商的官方页面确认。
+
 ## FAQ
 
 ### 哪个模型最适合写代码？
@@ -57,4 +67,3 @@ faq:
 ### 多模型平台会不会替代官网？
 
 不会。它们是第三方工具或聚合平台，不是 ChatGPT 官方入口。
-

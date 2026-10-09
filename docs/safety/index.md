@@ -15,6 +15,9 @@ updated: 2026-08-25
 
 <div class="article-grid">
   <a href="/safety/chatgpt-account-two-factor-authentication-security-check-20260908">ChatGPT 两步验证怎么设置：登录安全、验证器与恢复检查清单</a>
+  <a href="/safety/chatgpt-official-qr-login-scan-authorize-safety-20260826">ChatGPT官网二维码登录安全吗：扫码授权、浏览器会话与假登录页识别</a>
+  <a href="/safety/chatgpt-official-status-login-image-network-troubleshoot-20260826">ChatGPT官网服务状态怎么看：登录、消息、图片与网络故障分辨清单</a>
+  <a href="/safety/chatgpt-official-unrecognized-login-device-session-security-20260826">ChatGPT官网提示陌生登录怎么办：设备会话、密码重置与账号安全核验</a>
   <a href="/safety/chatgpt-plus-payment-page-third-party-recharge-risk-20260825">ChatGPT官网付款页面怎么辨别：Plus订阅、退款与第三方代充风险</a>
   <a href="/safety/chatgpt-browser-password-autofill-cookie-safety-20260825">ChatGPT官网浏览器自动填充安全吗：密码、Cookie与共享设备保护</a>
   <a href="/safety/chatgpt-official-email-verification-phishing-notice-20260825">ChatGPT官网邮件和验证码怎么核验：钓鱼链接与账号恢复安全清单</a>

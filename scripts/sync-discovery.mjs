@@ -9,6 +9,9 @@ const configPath = join(docsDir, '.vitepress', 'config.mts')
 const publicDir = join(docsDir, 'public')
 const distDir = join(docsDir, '.vitepress', 'dist')
 const siteUrl = 'https://chatgpt-guanwang.com'
+const homepageLatestCount = 12
+const homepageLatestStartMarker = '<!-- homepage-latest:start -->'
+const homepageLatestEndMarker = '<!-- homepage-latest:end -->'
 const sections = [
   { key: 'official', name: '官方入口' },
   { key: 'guides', name: '使用教程' },
@@ -65,6 +68,47 @@ function escapeHtml(value = '') {
     .replaceAll('>', '&gt;')
     .replaceAll('"', '&quot;')
     .replaceAll("'", '&#39;')
+}
+
+function formatDateHeading(date) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return '未标注日期'
+  const [year, month, day] = date.split('-')
+  return `${year}年${Number(month)}月${Number(day)}日更新`
+}
+
+function renderHomepageLatest(articles) {
+  const recent = articles.slice(0, homepageLatestCount)
+  const groups = []
+  for (const article of recent) {
+    const last = groups.at(-1)
+    if (!last || last.date !== article.date) groups.push({ date: article.date, articles: [] })
+    groups.at(-1).articles.push(article)
+  }
+
+  const rows = groups.flatMap((group) => [
+    `### ${formatDateHeading(group.date)}`,
+    '',
+    ...group.articles.map((article) =>
+      `- [${escapeMarkdown(article.title)}](${article.route})（${article.section}）`,
+    ),
+    '',
+  ])
+
+  return `${homepageLatestStartMarker}
+## 最近更新文章
+
+以下列出最近修订的 ${recent.length} 篇文章，完整文章目录请查看 [最新更新](/latest/)。更新时间来自文章 frontmatter 的 updated 或 date 字段，不代表官方产品发布时间。
+
+${rows.join('\n')}
+[查看全部最新文章](/latest/)
+${homepageLatestEndMarker}`
+}
+
+function syncHomepageLatest(source, articles) {
+  const start = source.indexOf(homepageLatestStartMarker)
+  const end = source.indexOf(homepageLatestEndMarker, start + homepageLatestStartMarker.length)
+  if (start < 0 || end < 0) throw new Error('Homepage latest markers were not found')
+  return `${source.slice(0, start)}${renderHomepageLatest(articles)}${source.slice(end + homepageLatestEndMarker.length)}`
 }
 
 async function articleMeta() {
@@ -133,6 +177,11 @@ outline: deep
 ${latestRows.join('\n')}
 `
   await writeFile(join(docsDir, 'latest', 'index.md'), latest, 'utf8')
+
+  const homepagePath = join(docsDir, 'index.md')
+  const homepage = await readFile(homepagePath, 'utf8')
+  const nextHomepage = syncHomepageLatest(homepage, all)
+  if (nextHomepage !== homepage) await writeFile(homepagePath, nextHomepage, 'utf8')
 
   const llmsSections = groups.map((group) => [
     `## ${group.name}`,

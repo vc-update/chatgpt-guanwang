@@ -23,6 +23,8 @@ faq:
 
 <p class="article-meta">更新日期：2026-09-07｜本站为非官方独立整理，不属于 OpenAI 或 ChatGPT 官方网站。</p>
 
+<p class="article-note">只想判断搜索里的“chatgpt6”消息是真是假，可先看<a href="/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927">chatgpt6是真的吗：官网信息、模型菜单与第三方宣传核验</a>，再回到本文查看具体入口与使用步骤。</p>
+
 <div class="quick-answer">
   <strong>先说结论：</strong>想确认GPT-6 Astra能不能用，先核对OpenAI官网和ChatGPT官方入口，再查看登录后的模型菜单。模型发布、ChatGPT开放和第三方产品接入可能不是同一天发生。你也可以在已接入GPT-6的第三方产品中体验，但要把产品实际显示的模型、额度和公告当作当前可用状态，不能只看文章标题或宣传截图。
 </div>

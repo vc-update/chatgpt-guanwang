@@ -209,43 +209,43 @@ ChatGPT 网页入口优先以 `https://chatgpt.com/` 为准。OpenAI 公司官�
 不一定。打不开可能来自网络、DNS、浏览器缓存、地区可用性、账号风控或临时服务状态。先核对 `chatgpt.com` 和 `openai.com`，再排查本地环境。
 
 <!-- latest-updates:start -->
-## 最新更新文章
+<!-- homepage-latest:start -->
+## 最近更新文章
 
-以下文章按更新时间倒序排列，最新内容排在最前。每篇文章都带有 `date` / `updated` 字段和正文更新时间，后续更新目录时会继续按这个字段排序。
+以下列出最近修订的 12 篇文章，完整文章目录请查看 [最新更新](/latest/)。更新时间来自文章 frontmatter 的 updated 或 date 字段，不代表官方产品发布时间。
 
-## 2026年9月8日更新
+### 2026年10月9日更新
 
-- [ChatGPT 两步验证怎么设置？登录安全、验证器与恢复检查清单【2026年9月】](/safety/chatgpt-account-two-factor-authentication-security-check-20260908)：覆盖安全设置入口、验证器绑定、恢复代码、换手机和陌生登录提醒处理。
+- [国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型](/domestic/model-choice)（国内方案）
+- [chatgpt6是真的吗？GPT-6.1 Sol、官网信息与模型菜单核验指南【2026年10月】](/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927)（使用教程）
+- [Claude 5.5 更新了什么？Opus、Sonnet、Haiku 怎么选，官网入口与国内使用核验指南（2026）](/guides/claude-5-5-models-official-entry-domestic-guide-20261009)（使用教程）
+- [Gemini 4 Argon 是什么？官方入口、开放资格与国内使用安全核验指南（2026）](/guides/gemini-4-argon-official-entry-eligibility-domestic-guide-20261009)（使用教程）
 
-## 2026年8月8日更新
+### 2026年10月8日更新
 
-- [ChatGPT官方网址入口（官网网址登录入口）｜中文版与国内使用指南](/official/entry)：更新官方网址、登录与下载入口表，补充三步核验流程、中文版和国内第三方服务边界。
-- [ChatGPT中文版：官网中文使用、国内入口与镜像网站指南](/domestic/chinese-version-free-use)：承接 ChatGPT中文版、中文官网、国内入口和ChatGPT镜像网站等搜索意图。
-- [ChatGPT网页版使用教程（2026国内完整指南）：官网入口与登录步骤](/guides/chatgpt-web-login-entry-mobile-desktop-no-download-20260714)：承接 ChatGPT网页版、网页版入口、登录步骤和手机电脑免下载等搜索意图。
-- [ChatGPT语音对话怎么用：手机App、网页版、中文设置与隐私提醒](/guides/chatgpt-voice-conversation-mobile-web-chinese-guide-20260808)：承接 ChatGPT语音对话、手机App语音、网页版语音、中文口语和麦克风没反应等搜索意图。
-- [ChatGPT联网搜索怎么用：网页版搜索、引用来源与信息核验指南](/guides/chatgpt-web-search-citations-current-information-guide-20260808)：承接 ChatGPT联网搜索、网页版搜索、引用来源、最新信息和结果核验等搜索意图。
-- [ChatGPT记忆功能怎么关闭和删除：个性化设置、聊天记录与隐私指南](/safety/chatgpt-memory-manage-delete-privacy-guide-20260808)：承接 ChatGPT记忆功能、关闭记忆、删除记忆、聊天记录和隐私设置等搜索意图。
+- [ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】](/guides/chatgpt-image-2-5-release-features-editing-guide-20260909)（使用教程）
+- [GPT Images 2.5 图片编辑教程：上传图片、局部修改、改字与失败排查（2026）](/guides/gpt-images-2-5-image-editing-tutorial-20261008)（使用教程）
+- [GPT Images 2.5 怎么用？中文提示词、海报与商品图生成教程（2026）](/guides/gpt-images-2-5-prompt-generation-tutorial-20261008)（使用教程）
 
-## 2026年8月7日更新
+### 2026年10月5日更新
 
-- [ChatGPT镜像网站怎么选？登录、隐私、付款与真假检查](/safety/chatgpt-mirror-site-risk-check-2026)：覆盖 ChatGPT镜像网站、账号登录、文件隐私、付款规则和仿冒站风险。
+- [ChatGPT 官网入口、ChatGPT 网页版、GPT-6、ChatGPT 国内访问完全指南（2026）](/domestic/chatgpt-china-use-official-mirror-tutorial-20260916)（国内方案）
 
-## 2026年8月5日更新
+### 2026年9月27日更新
 
-- [ChatGPT提示词怎么写：中文办公、写作、翻译和总结模板](/guides/chatgpt-prompt-writing-chinese-office-translation-summary-20260805)：承接 ChatGPT提示词、ChatGPT怎么提问、中文办公、写作、翻译和总结模板搜索意图。
-- [ChatGPT上传文件安全吗：文档、图片、表格和隐私数据检查清单](/safety/chatgpt-upload-files-privacy-data-security-checklist-20260805)：承接 ChatGPT上传文件安全、文件隐私、PDF/图片/表格脱敏、镜像站上传风险和数据控制搜索意图。
+- [ChatGPT官网登录后历史记录不见了怎么办？账号方式、设备与同步排查【2026年9月】](/official/chatgpt-official-login-history-missing-new-device-20260927)（官方入口）
+- [ChatGPT网页版跨设备使用指南：手机电脑登录、历史记录同步与隐私设置【2026年9月】](/guides/chatgpt-web-cross-device-history-privacy-20260927)（使用教程）
 
-## 2026年8月3日更新
+### 2026年9月16日更新
 
-- [ChatGPT在线使用入口：网页版免下载、手机电脑和国内备用方案](/guides/chatgpt-online-use-web-mobile-desktop-domestic-backup-20260803)：承接 ChatGPT在线使用、ChatGPT网页版、免下载、手机电脑使用和国内备用方案搜索意图。
-- [ChatGPT国内用户使用指南：官网、中文版镜像与多模型工具怎么选](/domestic/chatgpt-china-user-guide-official-mirror-multimodel-20260803)：承接 ChatGPT国内用户使用指南、ChatGPT中文版镜像、国内怎么用和多模型工具选择搜索意图。
+- [ChatGPT镜像站安全边界：账号凭据、API Key与上传文件的风险清单](/safety/chatgpt-china-official-mirror-complete-solution-2026-06)（安全识别）
 
-## 2026年7月30日更新
+### 2026年9月15日更新
 
-- [ChatGPT官网：共享链接怎么查看、停止共享与保护聊天隐私](/official/chatgpt-shared-links-view-stop-sharing-privacy-20260730)：查看共享链接、停止共享和隐私检查。
-- [ChatGPT官网：聊天记录不见了怎么办？](/official/chatgpt-chat-history-missing-account-archive-troubleshoot-20260730)：排查账号、历史记录、归档和服务状态。
-- [ChatGPT官网登录：忘记密码与账号恢复教程](/official/chatgpt-forgot-password-account-recovery-login-method-20260730)：区分邮箱、Google 和 Apple 登录恢复路径。
-- [ChatGPT官网：账号被停用或被锁怎么办？](/official/chatgpt-account-deactivated-locked-appeal-recovery-20260730)：申诉、验证、证据保存和安全恢复步骤。
+- [ChatGPT个性化设置怎么用？自定义指令、语言、记忆和隐私选项说明【2026年9月】](/guides/chatgpt-personalization-custom-instructions-language-memory-privacy-20260915)（使用教程）
+
+[查看全部最新文章](/latest/)
+<!-- homepage-latest:end -->
 
 <!-- discovery-updates:start -->
 <!-- RICH-SEO-2026-07-24-chatgpt-guanwang-START -->

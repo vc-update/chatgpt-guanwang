@@ -2,7 +2,7 @@
 title: ChatGPT使用教程：登录、网页版与App下载
 description: 汇总ChatGPT登录入口、ChatGPT网页版、App下载、账号注册、提示词、新手使用与ChatGPT打不开排查教程，按任务快速找到对应步骤和安全提醒。
 date: 2026-06-22
-updated: 2026-08-08
+updated: 2026-10-08
 ---
 
 <section class="category-hero">
@@ -14,6 +14,12 @@ updated: 2026-08-08
 ## 文章列表
 
 <div class="article-grid">
+  <a href="/guides/claude-5-5-models-official-entry-domestic-guide-20261009">Claude 5.5 更新了什么：Opus、Sonnet、Haiku 版本选择与官网入口</a>
+  <a href="/guides/gemini-4-argon-official-entry-eligibility-domestic-guide-20261009">Gemini 4 Argon 是什么：官方入口、开放资格与国内使用核验</a>
+  <a href="/guides/gpt-images-2-5-prompt-generation-tutorial-20261008">GPT Images 2.5 怎么用：中文提示词、海报与商品图生成教程</a>
+  <a href="/guides/gpt-images-2-5-image-editing-tutorial-20261008">GPT Images 2.5 图片编辑教程：上传图片、局部修改、改字与失败排查</a>
+  <a href="/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927">chatgpt6是真的吗：官网信息、模型菜单与第三方宣传核验</a>
+  <a href="/guides/chatgpt-web-cross-device-history-privacy-20260927">ChatGPT网页版跨设备使用：手机电脑登录、历史记录同步与隐私设置</a>
   <a href="/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907">GPT-6 Astra怎么用：官网入口、模型菜单与开放范围核验</a>
   <a href="/guides/chatgpt-voice-conversation-mobile-web-chinese-guide-20260808">ChatGPT语音对话怎么用：手机App、网页版、中文设置与隐私提醒</a>
   <a href="/guides/chatgpt-web-search-citations-current-information-guide-20260808">ChatGPT联网搜索怎么用：网页版搜索、引用来源与信息核验指南</a>

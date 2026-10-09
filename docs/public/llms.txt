@@ -11,6 +11,7 @@
 
 ## 官方入口
 
+- [ChatGPT官网登录后历史记录不见了怎么办？账号方式、设备与同步排查【2026年9月】](https://chatgpt-guanwang.com/official/chatgpt-official-login-history-missing-new-device-20260927): 登录ChatGPT官网后看不到历史记录？本文从官方域名、邮箱与Google/Apple登录方式、工作区、临时对话、归档和服务状态几个方向逐步排查，并说明手机电脑同步时的隐私边界。
 - [ChatGPT 官网最新地址：chatgpt 国内访问与中文版使用指南 | ChatGPT中文站](https://chatgpt-guanwang.com/official/chatgpt-guanwang-rukou-2026): 2026年9月更新ChatGPT官网地址、chatgpt.com网页版登录入口、ChatGPT中文版与国内访问说明，覆盖GPT-6 Astra、Image 2.5、免费版与Plus、App、图片、研究、语音和第三方产品选择。
 - [ChatGPT官网怎么收藏才安全？官方地址核验、书签设置与假站防范清单【2026年8月】](https://chatgpt-guanwang.com/official/bookmark-safe-entry): 教你确认真正的 ChatGPT 官网地址，把 chatgpt.com 等官方入口安全收藏为书签，并给出假站防范、官网打不开时的排查清单，避免每次被搜索结果里的仿冒站带偏。
 - [ChatGPT官网登录入口：官方登录地址、国内访问与注册登录失败排查【2026年8月】](https://chatgpt-guanwang.com/official/chatgpt-official-login-entry-china-access-guide-2026): ChatGPT官网登录入口到底是哪个地址？本文核对 chatgpt.com 与 auth 登录页的官方入口，讲清邮箱、Google、Apple 三种登录方式的适用场景，并按步骤排查国内访问失败、注册登录报错与账号安全风险，帮你找到正确入口。
@@ -25,25 +26,24 @@
 - [ChatGPT官网入口：搜索结果、官方网址与假登录页面辨别教程【2026年7月更新】](https://chatgpt-guanwang.com/official/chatgpt-official-entry-search-result-url-fake-login-check-20260724): 面向准备从搜索结果进入ChatGPT官网的用户，说明chatgpt.com、openai.com、帮助中心与状态页的用途，并提供最终域名、跳转链、登录页面、广告结果和仿冒入口核对步骤。
 - [ChatGPT官网入口：网页版登录地址、中文版界面与官方网址核对【2026年7月更新】](https://chatgpt-guanwang.com/official/chatgpt-official-web-login-address-chinese-check-20260723): 本文面向从Bing等搜索引擎查找ChatGPT官网入口的用户，帮助核对网页版登录地址、中文界面、OpenAI相关页面、下载入口、开发者工具页面与第三方教程站差异。重点是用可复核的方法判断页面用途、登录边界和敏感信息提交风险，而不是提供账号代登、客户端分发、价格承诺或第三方服务背书。
 - [ChatGPT官网入口地址是什么？chatgpt.com、OpenAI官网与国内使用完整指南【2026年7月】](https://chatgpt-guanwang.com/official/chatgpt-guanwang-rukou-china-tutorial-2026): ChatGPT官网入口地址是什么？本文核对 chatgpt.com、openai.com 与官方 App 来源，说明网页版登录、国内使用选择、账号安全与第三方服务边界。
-- [ChatGPT官网（chatgpt.com）怎么进？官网入口、网页版登录与地址核对【2026年7月】](https://chatgpt-guanwang.com/official/chatgpt-com-official-entry-web-login-address-check-20260713): ChatGPT官网（chatgpt.com）怎么进？本文说明官网入口、网页版登录、OpenAI 地址核对、手机电脑访问与遇到打不开时的安全排查顺序。
 
 ## 使用教程
 
+- [chatgpt6是真的吗？GPT-6.1 Sol、官网信息与模型菜单核验指南【2026年10月】](https://chatgpt-guanwang.com/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927): 围绕chatgpt6、GPT-6、GPT-6.1 Sol和ChatGPT 6官网搜索结果，说明如何核对OpenAI官方公告、模型菜单、API文档与第三方宣传，避免把截图、营销名称或镜像站入口当成官方事实。
+- [Claude 5.5 更新了什么？Opus、Sonnet、Haiku 怎么选，官网入口与国内使用核验指南（2026）](https://chatgpt-guanwang.com/guides/claude-5-5-models-official-entry-domestic-guide-20261009): 整理 Anthropic 官方发布的 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5，说明版本差异、Claude 官网入口、Claude Code 入口和国内用户的第三方使用安全边界。
+- [Gemini 4 Argon 是什么？官方入口、开放资格与国内使用安全核验指南（2026）](https://chatgpt-guanwang.com/guides/gemini-4-argon-official-entry-eligibility-domestic-guide-20261009): 整理 Google 官方发布的 Gemini 4 Argon，说明 Gemini 官网、Google AI Studio、API 与测试资格的区别，并给出国内用户识别第三方入口和保护账号数据的步骤。
+- [ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-image-2-5-release-features-editing-guide-20260909): 整理ChatGPT Image 2.5官方资讯、图片生成与编辑变化、中文提示词写法、实拍图修改案例和使用入口，并介绍GPTCat与SnakeGPT的图片工作流。
+- [GPT Images 2.5 图片编辑教程：上传图片、局部修改、改字与失败排查（2026）](https://chatgpt-guanwang.com/guides/gpt-images-2-5-image-editing-tutorial-20261008): GPT Images 2.5 图片编辑教程，说明如何安全上传图片、描述局部修改、替换背景和文字，提供可复制指令、失败排查表以及隐私版权检查清单。
+- [GPT Images 2.5 怎么用？中文提示词、海报与商品图生成教程（2026）](https://chatgpt-guanwang.com/guides/gpt-images-2-5-prompt-generation-tutorial-20261008): GPT Images 2.5 怎么用？从官方入口核验、中文提示词结构到海报、封面和商品图生成，提供可复制模板、迭代步骤、失败排查与隐私版权提醒。
+- [ChatGPT网页版跨设备使用指南：手机电脑登录、历史记录同步与隐私设置【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-web-cross-device-history-privacy-20260927): ChatGPT网页版怎么在手机和电脑之间使用？本文整理chatgpt.com登录、同一账号切换设备、历史记录不同步、临时对话、浏览器隐私和第三方网页版安全边界。
 - [ChatGPT个性化设置怎么用？自定义指令、语言、记忆和隐私选项说明【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-personalization-custom-instructions-language-memory-privacy-20260915): 整理ChatGPT个性化设置的完整用法：自定义指令怎么写、界面语言与回答语言的区别、记忆开关、数据控制选项和共享设备注意事项，并给出可直接套用的中文模板。
 - [ChatGPT 中文版：免费使用指南与镜像网站推荐，支持OpenAI最新模型GPT-6，GPT-5.6sol(2026最新)](https://chatgpt-guanwang.com/guides/chatgpt-chinese-free-mirror-gpt6-gpt56sol-guide-20260911): 整理ChatGPT中文版免费使用方法、官网入口、镜像与第三方平台选择，说明GPT-6和GPT-5.6 Sol模型菜单如何核验，并提供中文问答、写作、图片与代码任务的安全使用建议。
 - [GPT-6 Astra国内怎么用？模型菜单、API权限与实际功能核验指南【2026年9月】](https://chatgpt-guanwang.com/guides/gpt-6-astra-domestic-use-model-menu-api-permission-guide-20260911): 面向中文用户整理GPT-6 Astra国内使用与核验方法，说明ChatGPT模型菜单、API权限、开放范围、第三方产品入口和实际测试步骤，避免把宣传截图误认为可用权限。
-- [ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-image-2-5-release-features-editing-guide-20260909): 整理ChatGPT Image 2.5官方资讯、图片生成与编辑变化、中文提示词写法、实拍图修改案例和使用入口，并介绍GPTCat与SnakeGPT的图片工作流。
 - [GPT-6 Astra怎么用？官网入口、模型菜单与开放范围核验指南【2026年9月】](https://chatgpt-guanwang.com/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907): 说明GPT-6 Astra如何核对官网入口、模型菜单和开放范围，区分ChatGPT、API与第三方产品，并介绍GPTCat与SnakeGPT的实际使用场景和安全边界。
 - [GPT-6 Astra发布了？官网信息、ARC-AGI-3成绩、编程能力与使用指南【2026年9月】](https://chatgpt-guanwang.com/guides/gpt-6-astra-release-capabilities-benchmark-guide-20260904): 整理GPT-6 Astra官网资讯、ARC-AGI-3与Artificial Analysis测试图、编程演示和实际使用建议，区分官方信息、媒体解读与尚待核验的内容。
 - [ChatGPT免费版和Plus有什么区别？功能、额度、图片生成与适合人群对比【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-free-vs-plus-deep-research-report-citations-20260903): 对比ChatGPT免费版和Plus在功能、使用额度、图片生成、深度研究、研究功能、报告和引用来源方面的差异，并说明不同人群如何选择。
 - [ChatGPT图片生成功能怎么用？中文提示词、图片编辑与版权注意事项【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-image-generation-editing-prompts-copyright-20260902): ChatGPT图片生成功能怎么用？本文说明官方入口、中文提示词写法、图片编辑流程、失败排查、隐私与版权边界，并介绍GPTCat、SnakeGPT等第三方练习场景。
 - [ChatGPT登录入口在哪里？官网登录地址、验证码收不到与账号异常排查【2026年8月】](https://chatgpt-guanwang.com/guides/login): ChatGPT 登录入口应从 chatgpt.com 进入。本文核对官方登录地址、对比四种登录方式，并逐项排查登录打不开、验证码收不到、账号被锁等问题。
-- [ChatGPT官网入口网页版：chatgpt.com登录地址、中文界面与真假入口核验【2026年8月】](https://chatgpt-guanwang.com/guides/chatgpt-web-version-chinese): ChatGPT官网入口网页版是哪个？本文直给 chatgpt.com 网页版登录地址与登录按钮位置，核对 chat.openai.com 跳转关系，前置真假入口对照表、中文界面设置与国内访问排查。
-- [ChatGPT联网搜索怎么用：网页版搜索、引用来源与信息核验指南【2026年8月】](https://chatgpt-guanwang.com/guides/chatgpt-web-search-citations-current-information-guide-20260808): ChatGPT联网搜索使用指南，说明网页版如何判断搜索功能是否可用、怎样要求引用来源、如何核对时效信息，以及官网打不开时第三方搜索工具的安全边界。
-- [ChatGPT网页版使用教程（2026国内完整指南）：官网入口与登录步骤](https://chatgpt-guanwang.com/guides/chatgpt-web-login-entry-mobile-desktop-no-download-20260714): ChatGPT网页版使用教程：核对chatgpt.com官网入口，说明电脑和手机免下载登录步骤、中文提问、App选择、打不开排查及第三方网页安全边界。
-- [ChatGPT语音对话怎么用：手机App、网页版、中文设置与隐私提醒【2026年8月】](https://chatgpt-guanwang.com/guides/chatgpt-voice-conversation-mobile-web-chinese-guide-20260808): ChatGPT语音对话使用指南，说明手机App和网页版如何寻找语音入口、中文对话怎么设置、麦克风没反应如何排查，以及国内第三方语音工具的隐私边界。
-- [ChatGPT提示词怎么写：中文办公、写作、翻译和总结模板【2026年8月】](https://chatgpt-guanwang.com/guides/chatgpt-prompt-writing-chinese-office-translation-summary-20260805): ChatGPT提示词怎么写才更好用？面向中文用户整理办公写作、翻译润色、资料总结、表格分析和新手提问模板，并说明官网入口、国内备用工具和隐私安全边界。
-- [ChatGPT在线使用入口：网页版免下载、手机电脑和国内备用方案【2026年8月】](https://chatgpt-guanwang.com/guides/chatgpt-online-use-web-mobile-desktop-domestic-backup-20260803): ChatGPT在线使用入口指南，说明ChatGPT网页版免下载怎么用，手机和电脑如何核对chatgpt.com，官网打不开时如何选择国内备用方案，并提醒账号、隐私和仿冒站风险。
 
 ## 安全识别
 
@@ -65,7 +65,8 @@
 
 ## 国内方案
 
-- [ChatGPT 国内怎么使用？（官网 + 镜像完整方案）chatgpt中文版教程](https://chatgpt-guanwang.com/domestic/chatgpt-china-use-official-mirror-tutorial-20260916): 国内使用ChatGPT的两条现实路径：官网入口怎么核对与打不开怎么排查，第三方中文平台怎么核验身份和数据规则，附账号安全边界与场景选择建议。
+- [国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型](https://chatgpt-guanwang.com/domestic/model-choice): 从写作、学习、代码、长文本、图像和语音视频等场景，说明国内用户如何选择 GPT、Claude、Gemini、DeepSeek、Grok 等模型。
+- [ChatGPT 官网入口、ChatGPT 网页版、GPT-6、ChatGPT 国内访问完全指南（2026）](https://chatgpt-guanwang.com/domestic/chatgpt-china-use-official-mirror-tutorial-20260916): 整理 ChatGPT 官网入口、ChatGPT 网页版登录、GPT-6 信息核验与国内访问排查方法，区分 OpenAI 官方页面和第三方中文平台，提供安全步骤、场景选择与常见问题。
 - [ChatGPT国内镜像站完全指南：2026年稳定可用的镜像网站汇总](https://chatgpt-guanwang.com/domestic/chatgpt-domestic-mirror-sites-complete-guide-20260914): 2026年9月更新ChatGPT国内镜像站指南，汇总当前可访问的GPTCat与SnakeGPT，介绍GPT-6、多模型、图片、代码和研究功能，并提供稳定性、账号、隐私与付款核验清单。
 - [ChatGPT中文版：官网中文使用、国内入口与镜像网站指南](https://chatgpt-guanwang.com/domestic/chinese-version-free-use): ChatGPT中文版使用指南：说明官网如何用中文、国内入口怎么选、网页版与镜像网站的区别，并提供账号、隐私、文件和登录安全检查。
 - [ChatGPT国内用户使用指南：官网、中文版镜像与多模型工具怎么选【2026年8月】](https://chatgpt-guanwang.com/domestic/chatgpt-china-user-guide-official-mirror-multimodel-20260803): 面向国内用户整理ChatGPT使用指南，说明ChatGPT官网、ChatGPT中文版镜像、多模型工具和国内备用方案怎么选，并自然比较SnakeGPT、GPTCat、ZeoGPT的适合场景。
@@ -75,7 +76,6 @@
 - [国内开发者如何使用 ChatGPT/Codex 类工具](https://chatgpt-guanwang.com/domestic/coding-ai-tools): 面向国内开发者介绍 ChatGPT、Codex 类工具、代码问答、报错排查、长文本上下文和第三方平台选择建议。
 - [国内如何使用ChatGPT？官方入口、访问排查与替代方案](https://chatgpt-guanwang.com/domestic/use): 面向中文用户说明国内使用 ChatGPT 时如何核对官方入口，排查打不开、登录失败和网络限制，并了解第三方练习环境的账号、隐私与功能边界。
 - [国内使用ChatGPT怎么选？官网、网页版与第三方方案](https://chatgpt-guanwang.com/domestic/domestic-access-plan): 面向国内中文用户整理 ChatGPT 官方入口、网页版、第三方多模型平台和学习练习环境的选择方法，说明访问限制、账号隐私与安全注意事项。
-- [国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型](https://chatgpt-guanwang.com/domestic/model-choice): 从写作、学习、代码、长文本、图像和语音视频等场景，说明国内用户如何选择 GPT、Claude、Gemini、DeepSeek、Grok 等模型。
 - [ChatGPT 官网无法访问时的国内备选方案](https://chatgpt-guanwang.com/domestic/no-official-access-alternatives): 说明 ChatGPT 官网无法访问时如何排查，以及国内第三方 AI 平台、多模型工具和开发者方案如何选择。
 - [ChatGPT 国内怎么使用：官网、镜像与国内可用方案完整指南](https://chatgpt-guanwang.com/domestic/domestic-mirror-complete-plan): 面向国内用户系统整理 ChatGPT 国内怎么使用，包括官网入口、网页登录、App 下载、镜像站风险、第三方多模型平台、产品推荐和安全访问清单。
 

@@ -25,6 +25,7 @@ updated: 2026-08-08
 ## 文章列表
 
 <div class="article-grid">
+  <a href="/official/chatgpt-official-login-history-missing-new-device-20260927">ChatGPT官网登录后历史记录不见了怎么办：账号方式、设备与同步排查</a>
   <a href="/official/chatgpt-official-login-entry-china-access-guide-2026">ChatGPT官网登录入口：官方登录地址、国内访问与注册登录失败排查</a>
   <a href="/official/chatgpt-official-entry-domestic-use-tutorial-cn-login-20260714">ChatGPT官网入口在哪里：官方网址、登录入口与国内访问核验</a>
   <a href="/official/where-is-chatgpt-official">ChatGPT官网入口在哪里：官方网址、登录入口与真假网站核验</a>
