@@ -486,7 +486,15 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
-        "text": "chatgpt6是真的吗？GPT-6.1 Sol、官网信息与模型菜单核验指南【2026年10月】",
+        "text": "ChatGPT 官方下载入口：Windows、Mac、iPhone、Android 安装与真假 App 识别（2026）",
+        "link": "/guides/chatgpt-download-all-platforms"
+      },
+      {
+        "text": "Claude Code 国内怎么用？官网、安装、VS Code、CLI 与账号安全指南（2026）",
+        "link": "/guides/claude-code-domestic-install-usage-guide-20261027"
+      },
+      {
+        "text": "GPT-6.1 Sol 与 GPT-6 Astra 怎么选？ChatGPT 最新模型、入口与权限核验指南（2026）",
         "link": "/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927"
       },
       {
@@ -592,10 +600,6 @@ const articleSidebar = [
       {
         "text": "ChatGPT 提示词入门：中文用户怎么问更清楚",
         "link": "/guides/prompt-basics"
-      },
-      {
-        "text": "ChatGPT 下载全平台指南：网页版、Windows、iOS 和 Android",
-        "link": "/guides/chatgpt-download-all-platforms"
       },
       {
         "text": "ChatGPT 怎么使用：新手从打开官网到开始提问",
@@ -898,12 +902,12 @@ const articleSidebar = [
     "collapsed": false,
     "items": [
       {
-        "text": "国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型",
-        "link": "/domestic/model-choice"
+        "text": "ChatGPT 官网入口、ChatGPT 网页版、ChatGPT 国内访问完全指南（2026）",
+        "link": "/domestic/chatgpt-china-use-official-mirror-tutorial-20260916"
       },
       {
-        "text": "ChatGPT 官网入口、ChatGPT 网页版、GPT-6、ChatGPT 国内访问完全指南（2026）",
-        "link": "/domestic/chatgpt-china-use-official-mirror-tutorial-20260916"
+        "text": "国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型",
+        "link": "/domestic/model-choice"
       },
       {
         "text": "ChatGPT国内镜像站完全指南：2026年稳定可用的镜像网站汇总",

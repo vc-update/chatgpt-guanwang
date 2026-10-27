@@ -2,7 +2,7 @@
 title: "最新更新：ChatGPT 官网入口与安全识别文章"
 description: "按文章真实更新时间倒序整理 ChatGPT 官网入口、网页版登录、App 下载、账号与付款安全、镜像站风险和国内访问文章。"
 date: 2026-06-29
-updated: 2026-10-09
+updated: 2026-10-27
 outline: deep
 ---
 
@@ -12,14 +12,16 @@ outline: deep
 
 | 更新时间 | 文章 | 栏目 |
 | :--- | :--- | :--- |
+| 2026-10-27 | [ChatGPT 官方下载入口：Windows、Mac、iPhone、Android 安装与真假 App 识别（2026）](/guides/chatgpt-download-all-platforms) | 使用教程 |
+| 2026-10-27 | [Claude Code 国内怎么用？官网、安装、VS Code、CLI 与账号安全指南（2026）](/guides/claude-code-domestic-install-usage-guide-20261027) | 使用教程 |
+| 2026-10-27 | [GPT-6.1 Sol 与 GPT-6 Astra 怎么选？ChatGPT 最新模型、入口与权限核验指南（2026）](/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927) | 使用教程 |
+| 2026-10-21 | [ChatGPT 官网入口、ChatGPT 网页版、ChatGPT 国内访问完全指南（2026）](/domestic/chatgpt-china-use-official-mirror-tutorial-20260916) | 国内方案 |
 | 2026-10-09 | [国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型](/domestic/model-choice) | 国内方案 |
-| 2026-10-09 | [chatgpt6是真的吗？GPT-6.1 Sol、官网信息与模型菜单核验指南【2026年10月】](/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927) | 使用教程 |
 | 2026-10-09 | [Claude 5.5 更新了什么？Opus、Sonnet、Haiku 怎么选，官网入口与国内使用核验指南（2026）](/guides/claude-5-5-models-official-entry-domestic-guide-20261009) | 使用教程 |
 | 2026-10-09 | [Gemini 4 Argon 是什么？官方入口、开放资格与国内使用安全核验指南（2026）](/guides/gemini-4-argon-official-entry-eligibility-domestic-guide-20261009) | 使用教程 |
 | 2026-10-08 | [ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】](/guides/chatgpt-image-2-5-release-features-editing-guide-20260909) | 使用教程 |
 | 2026-10-08 | [GPT Images 2.5 图片编辑教程：上传图片、局部修改、改字与失败排查（2026）](/guides/gpt-images-2-5-image-editing-tutorial-20261008) | 使用教程 |
 | 2026-10-08 | [GPT Images 2.5 怎么用？中文提示词、海报与商品图生成教程（2026）](/guides/gpt-images-2-5-prompt-generation-tutorial-20261008) | 使用教程 |
-| 2026-10-05 | [ChatGPT 官网入口、ChatGPT 网页版、GPT-6、ChatGPT 国内访问完全指南（2026）](/domestic/chatgpt-china-use-official-mirror-tutorial-20260916) | 国内方案 |
 | 2026-09-27 | [ChatGPT官网登录后历史记录不见了怎么办？账号方式、设备与同步排查【2026年9月】](/official/chatgpt-official-login-history-missing-new-device-20260927) | 官方入口 |
 | 2026-09-27 | [ChatGPT网页版跨设备使用指南：手机电脑登录、历史记录同步与隐私设置【2026年9月】](/guides/chatgpt-web-cross-device-history-privacy-20260927) | 使用教程 |
 | 2026-09-16 | [ChatGPT镜像站安全边界：账号凭据、API Key与上传文件的风险清单](/safety/chatgpt-china-official-mirror-complete-solution-2026-06) | 安全识别 |
@@ -162,7 +164,6 @@ outline: deep
 | 2026-06-22 | [ChatGPT 国内怎么使用：官网、镜像与国内可用方案完整指南](/domestic/domestic-mirror-complete-plan) | 国内方案 |
 | 2026-06-22 | [ChatGPT 假 App 常见套路](/safety/fake-app-risk) | 安全识别 |
 | 2026-06-22 | [ChatGPT 提示词入门：中文用户怎么问更清楚](/guides/prompt-basics) | 使用教程 |
-| 2026-06-22 | [ChatGPT 下载全平台指南：网页版、Windows、iOS 和 Android](/guides/chatgpt-download-all-platforms) | 使用教程 |
 | 2026-06-22 | [ChatGPT 下载站和安装包风险提醒](/safety/download-site-risk) | 安全识别 |
 | 2026-06-22 | [ChatGPT 怎么使用：新手从打开官网到开始提问](/guides/beginner-guide) | 使用教程 |
 | 2026-06-22 | [ChatGPT 桌面版安装教程：Windows 与 macOS 下载前核对](/guides/desktop-install-windows-macos) | 使用教程 |

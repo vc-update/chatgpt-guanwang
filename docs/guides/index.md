@@ -14,11 +14,12 @@ updated: 2026-10-08
 ## 文章列表
 
 <div class="article-grid">
+  <a href="/guides/claude-code-domestic-install-usage-guide-20261027">Claude Code 国内怎么用？官网、安装、VS Code、CLI 与账号安全指南（2026）</a>
   <a href="/guides/claude-5-5-models-official-entry-domestic-guide-20261009">Claude 5.5 更新了什么：Opus、Sonnet、Haiku 版本选择与官网入口</a>
   <a href="/guides/gemini-4-argon-official-entry-eligibility-domestic-guide-20261009">Gemini 4 Argon 是什么：官方入口、开放资格与国内使用核验</a>
   <a href="/guides/gpt-images-2-5-prompt-generation-tutorial-20261008">GPT Images 2.5 怎么用：中文提示词、海报与商品图生成教程</a>
   <a href="/guides/gpt-images-2-5-image-editing-tutorial-20261008">GPT Images 2.5 图片编辑教程：上传图片、局部修改、改字与失败排查</a>
-  <a href="/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927">chatgpt6是真的吗：官网信息、模型菜单与第三方宣传核验</a>
+  <a href="/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927">GPT-6.1 Sol 与 GPT-6 Astra 怎么选：ChatGPT 最新模型、入口与权限核验指南（2026）</a>
   <a href="/guides/chatgpt-web-cross-device-history-privacy-20260927">ChatGPT网页版跨设备使用：手机电脑登录、历史记录同步与隐私设置</a>
   <a href="/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907">GPT-6 Astra怎么用：官网入口、模型菜单与开放范围核验</a>
   <a href="/guides/chatgpt-voice-conversation-mobile-web-chinese-guide-20260808">ChatGPT语音对话怎么用：手机App、网页版、中文设置与隐私提醒</a>

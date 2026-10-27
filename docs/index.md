@@ -214,10 +214,19 @@ ChatGPT 网页入口优先以 `https://chatgpt.com/` 为准。OpenAI 公司官�
 
 以下列出最近修订的 12 篇文章，完整文章目录请查看 [最新更新](/latest/)。更新时间来自文章 frontmatter 的 updated 或 date 字段，不代表官方产品发布时间。
 
+### 2026年10月27日更新
+
+- [ChatGPT 官方下载入口：Windows、Mac、iPhone、Android 安装与真假 App 识别（2026）](/guides/chatgpt-download-all-platforms)（使用教程）
+- [Claude Code 国内怎么用？官网、安装、VS Code、CLI 与账号安全指南（2026）](/guides/claude-code-domestic-install-usage-guide-20261027)（使用教程）
+- [GPT-6.1 Sol 与 GPT-6 Astra 怎么选？ChatGPT 最新模型、入口与权限核验指南（2026）](/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927)（使用教程）
+
+### 2026年10月21日更新
+
+- [ChatGPT 官网入口、ChatGPT 网页版、ChatGPT 国内访问完全指南（2026）](/domestic/chatgpt-china-use-official-mirror-tutorial-20260916)（国内方案）
+
 ### 2026年10月9日更新
 
 - [国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型](/domestic/model-choice)（国内方案）
-- [chatgpt6是真的吗？GPT-6.1 Sol、官网信息与模型菜单核验指南【2026年10月】](/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927)（使用教程）
 - [Claude 5.5 更新了什么？Opus、Sonnet、Haiku 怎么选，官网入口与国内使用核验指南（2026）](/guides/claude-5-5-models-official-entry-domestic-guide-20261009)（使用教程）
 - [Gemini 4 Argon 是什么？官方入口、开放资格与国内使用安全核验指南（2026）](/guides/gemini-4-argon-official-entry-eligibility-domestic-guide-20261009)（使用教程）
 
@@ -227,22 +236,10 @@ ChatGPT 网页入口优先以 `https://chatgpt.com/` 为准。OpenAI 公司官�
 - [GPT Images 2.5 图片编辑教程：上传图片、局部修改、改字与失败排查（2026）](/guides/gpt-images-2-5-image-editing-tutorial-20261008)（使用教程）
 - [GPT Images 2.5 怎么用？中文提示词、海报与商品图生成教程（2026）](/guides/gpt-images-2-5-prompt-generation-tutorial-20261008)（使用教程）
 
-### 2026年10月5日更新
-
-- [ChatGPT 官网入口、ChatGPT 网页版、GPT-6、ChatGPT 国内访问完全指南（2026）](/domestic/chatgpt-china-use-official-mirror-tutorial-20260916)（国内方案）
-
 ### 2026年9月27日更新
 
 - [ChatGPT官网登录后历史记录不见了怎么办？账号方式、设备与同步排查【2026年9月】](/official/chatgpt-official-login-history-missing-new-device-20260927)（官方入口）
 - [ChatGPT网页版跨设备使用指南：手机电脑登录、历史记录同步与隐私设置【2026年9月】](/guides/chatgpt-web-cross-device-history-privacy-20260927)（使用教程）
-
-### 2026年9月16日更新
-
-- [ChatGPT镜像站安全边界：账号凭据、API Key与上传文件的风险清单](/safety/chatgpt-china-official-mirror-complete-solution-2026-06)（安全识别）
-
-### 2026年9月15日更新
-
-- [ChatGPT个性化设置怎么用？自定义指令、语言、记忆和隐私选项说明【2026年9月】](/guides/chatgpt-personalization-custom-instructions-language-memory-privacy-20260915)（使用教程）
 
 [查看全部最新文章](/latest/)
 <!-- homepage-latest:end -->

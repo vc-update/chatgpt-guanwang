@@ -29,7 +29,9 @@
 
 ## 使用教程
 
-- [chatgpt6是真的吗？GPT-6.1 Sol、官网信息与模型菜单核验指南【2026年10月】](https://chatgpt-guanwang.com/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927): 围绕chatgpt6、GPT-6、GPT-6.1 Sol和ChatGPT 6官网搜索结果，说明如何核对OpenAI官方公告、模型菜单、API文档与第三方宣传，避免把截图、营销名称或镜像站入口当成官方事实。
+- [ChatGPT 官方下载入口：Windows、Mac、iPhone、Android 安装与真假 App 识别（2026）](https://chatgpt-guanwang.com/guides/chatgpt-download-all-platforms): 整理 ChatGPT 官方下载入口、Windows 与 macOS 桌面版、iPhone 和 Android App 安装步骤，说明应用商店开发者核对、假安装包识别和国内下载异常排查方法。
+- [Claude Code 国内怎么用？官网、安装、VS Code、CLI 与账号安全指南（2026）](https://chatgpt-guanwang.com/guides/claude-code-domestic-install-usage-guide-20261027): 整理 Claude Code 官网入口、Windows PowerShell、macOS、Linux、WSL 安装方式，以及 CLI、VS Code、JetBrains、桌面端和 Web 使用区别，说明国内网络、账号、API Key 与代码隐私风险。
+- [GPT-6.1 Sol 与 GPT-6 Astra 怎么选？ChatGPT 最新模型、入口与权限核验指南（2026）](https://chatgpt-guanwang.com/guides/chatgpt6-true-or-fake-official-model-menu-check-20260927): 围绕GPT-6.1 Sol、GPT-6 Astra、ChatGPT最新模型和GPT-6 API搜索意图，整理官方公告、模型菜单、开发者文档与第三方标签的核验方法，避免把截图、营销名称或镜像站入口当成官方事实。
 - [Claude 5.5 更新了什么？Opus、Sonnet、Haiku 怎么选，官网入口与国内使用核验指南（2026）](https://chatgpt-guanwang.com/guides/claude-5-5-models-official-entry-domestic-guide-20261009): 整理 Anthropic 官方发布的 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5，说明版本差异、Claude 官网入口、Claude Code 入口和国内用户的第三方使用安全边界。
 - [Gemini 4 Argon 是什么？官方入口、开放资格与国内使用安全核验指南（2026）](https://chatgpt-guanwang.com/guides/gemini-4-argon-official-entry-eligibility-domestic-guide-20261009): 整理 Google 官方发布的 Gemini 4 Argon，说明 Gemini 官网、Google AI Studio、API 与测试资格的区别，并给出国内用户识别第三方入口和保护账号数据的步骤。
 - [ChatGPT Image 2.5发布了吗？新功能、图片编辑与中文提示词使用指南【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-image-2-5-release-features-editing-guide-20260909): 整理ChatGPT Image 2.5官方资讯、图片生成与编辑变化、中文提示词写法、实拍图修改案例和使用入口，并介绍GPTCat与SnakeGPT的图片工作流。
@@ -42,8 +44,6 @@
 - [GPT-6 Astra怎么用？官网入口、模型菜单与开放范围核验指南【2026年9月】](https://chatgpt-guanwang.com/guides/gpt-6-astra-how-to-use-entry-model-menu-access-20260907): 说明GPT-6 Astra如何核对官网入口、模型菜单和开放范围，区分ChatGPT、API与第三方产品，并介绍GPTCat与SnakeGPT的实际使用场景和安全边界。
 - [GPT-6 Astra发布了？官网信息、ARC-AGI-3成绩、编程能力与使用指南【2026年9月】](https://chatgpt-guanwang.com/guides/gpt-6-astra-release-capabilities-benchmark-guide-20260904): 整理GPT-6 Astra官网资讯、ARC-AGI-3与Artificial Analysis测试图、编程演示和实际使用建议，区分官方信息、媒体解读与尚待核验的内容。
 - [ChatGPT免费版和Plus有什么区别？功能、额度、图片生成与适合人群对比【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-free-vs-plus-deep-research-report-citations-20260903): 对比ChatGPT免费版和Plus在功能、使用额度、图片生成、深度研究、研究功能、报告和引用来源方面的差异，并说明不同人群如何选择。
-- [ChatGPT图片生成功能怎么用？中文提示词、图片编辑与版权注意事项【2026年9月】](https://chatgpt-guanwang.com/guides/chatgpt-image-generation-editing-prompts-copyright-20260902): ChatGPT图片生成功能怎么用？本文说明官方入口、中文提示词写法、图片编辑流程、失败排查、隐私与版权边界，并介绍GPTCat、SnakeGPT等第三方练习场景。
-- [ChatGPT登录入口在哪里？官网登录地址、验证码收不到与账号异常排查【2026年8月】](https://chatgpt-guanwang.com/guides/login): ChatGPT 登录入口应从 chatgpt.com 进入。本文核对官方登录地址、对比四种登录方式，并逐项排查登录打不开、验证码收不到、账号被锁等问题。
 
 ## 安全识别
 
@@ -65,8 +65,8 @@
 
 ## 国内方案
 
+- [ChatGPT 官网入口、ChatGPT 网页版、ChatGPT 国内访问完全指南（2026）](https://chatgpt-guanwang.com/domestic/chatgpt-china-use-official-mirror-tutorial-20260916): 一篇讲清 ChatGPT 官网入口、网页版登录、国内访问排查与中文版辨别的实用指南，区分 OpenAI 官方页面和独立第三方平台，附安全检查、使用步骤与常见问题。
 - [国内用户怎么选择 GPT、Claude、Gemini、DeepSeek 等模型](https://chatgpt-guanwang.com/domestic/model-choice): 从写作、学习、代码、长文本、图像和语音视频等场景，说明国内用户如何选择 GPT、Claude、Gemini、DeepSeek、Grok 等模型。
-- [ChatGPT 官网入口、ChatGPT 网页版、GPT-6、ChatGPT 国内访问完全指南（2026）](https://chatgpt-guanwang.com/domestic/chatgpt-china-use-official-mirror-tutorial-20260916): 整理 ChatGPT 官网入口、ChatGPT 网页版登录、GPT-6 信息核验与国内访问排查方法，区分 OpenAI 官方页面和第三方中文平台，提供安全步骤、场景选择与常见问题。
 - [ChatGPT国内镜像站完全指南：2026年稳定可用的镜像网站汇总](https://chatgpt-guanwang.com/domestic/chatgpt-domestic-mirror-sites-complete-guide-20260914): 2026年9月更新ChatGPT国内镜像站指南，汇总当前可访问的GPTCat与SnakeGPT，介绍GPT-6、多模型、图片、代码和研究功能，并提供稳定性、账号、隐私与付款核验清单。
 - [ChatGPT中文版：官网中文使用、国内入口与镜像网站指南](https://chatgpt-guanwang.com/domestic/chinese-version-free-use): ChatGPT中文版使用指南：说明官网如何用中文、国内入口怎么选、网页版与镜像网站的区别，并提供账号、隐私、文件和登录安全检查。
 - [ChatGPT国内用户使用指南：官网、中文版镜像与多模型工具怎么选【2026年8月】](https://chatgpt-guanwang.com/domestic/chatgpt-china-user-guide-official-mirror-multimodel-20260803): 面向国内用户整理ChatGPT使用指南，说明ChatGPT官网、ChatGPT中文版镜像、多模型工具和国内备用方案怎么选，并自然比较SnakeGPT、GPTCat、ZeoGPT的适合场景。

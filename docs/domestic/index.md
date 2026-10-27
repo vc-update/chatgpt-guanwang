@@ -22,7 +22,7 @@ updated: 2026-10-05
 ## 文章列表
 
 <div class="article-grid">
-  <a href="/domestic/chatgpt-china-use-official-mirror-tutorial-20260916">ChatGPT 官网入口、ChatGPT 网页版、GPT-6、ChatGPT 国内访问完全指南（2026）</a>
+  <a href="/domestic/chatgpt-china-use-official-mirror-tutorial-20260916">ChatGPT 官网入口、ChatGPT 网页版、ChatGPT 国内访问完全指南（2026）</a>
   <a href="/domestic/chinese-version-free-use">ChatGPT中文版：官网中文使用、国内入口与镜像网站指南</a>
   <a href="/domestic/chatgpt-china-user-guide-official-mirror-multimodel-20260803">ChatGPT国内用户使用指南：官网、中文版镜像与多模型工具怎么选</a>
   <a href="/domestic/chatgpt-china-use-official-cannot-open-web-third-party-20260714">ChatGPT国内如何使用：官网打不开时的网页版和第三方方案</a>
